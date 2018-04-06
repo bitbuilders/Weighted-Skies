@@ -4,4 +4,7 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Dice/scenes/Demo/demo.unity
+    guid: 9bffaf85fa8153c4ba4e72b19277f390

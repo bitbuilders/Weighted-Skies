@@ -7,10 +7,13 @@ public class Player : MonoBehaviour
     [SerializeField] [Range(1.0f, 100.0f)] float m_speed = 50.0f;
     [SerializeField] [Range(1.0f, 900.0f)] float m_turnSpeed = 90.0f;
     [SerializeField] [Range(1.0f, 100.0f)] float m_jumpForce = 25.0f;
+    [SerializeField] [Range(1.0f, 100.0f)] float m_throwForce = 15.0f;
+    [SerializeField] [Range(-90.0f, 0.0f)] float m_throwAngle = -35.0f;
     [SerializeField] [Range(1.0f, 10.0f)] float m_jumpResistance = 3.0f;
     [SerializeField] [Range(1.0f, 10.0f)] float m_fallMultiplier = 3.0f;
     [SerializeField] Transform m_groundTouchPoint = null;
     [SerializeField] LayerMask m_groundMask = 0;
+    [SerializeField] Die m_die = null;
 
     Rigidbody m_rigidbody;
     Animator m_animator;
@@ -77,7 +80,7 @@ public class Player : MonoBehaviour
 
         Vector3 speed = new Vector3(m_rigidbody.velocity.x, 0.0f, m_rigidbody.velocity.z);
         float walkSpeed = speed.magnitude;
-        float runSpeed = walkSpeed - 6.0f;
+        float runSpeed = walkSpeed - 8.0f;
         if (walkSpeed <= 0.01f) walkSpeed = 0.0f;
 
         float animationSpeedWalk = walkSpeed * 0.5f;
@@ -87,5 +90,17 @@ public class Player : MonoBehaviour
         m_animator.SetFloat("Running", runSpeed);
         m_animator.SetFloat("WalkSpeed", animationSpeedWalk);
         m_animator.SetFloat("RunSpeed", animationSpeedRun);
+    }
+
+    public void Jab()
+    {
+        if (m_die != null)
+        {
+            Vector3 force = m_throwForce * transform.forward;
+            Quaternion arcRotation = Quaternion.Euler(Vector3.right * m_throwAngle);
+            force = arcRotation * force;
+
+            m_die.Throw(force);
+        }
     }
 }

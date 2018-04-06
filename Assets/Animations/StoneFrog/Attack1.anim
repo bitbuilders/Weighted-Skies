@@ -1530,7 +1530,329 @@ AnimationClip:
     m_Center: {x: 0, y: 0, z: 0}
     m_Extent: {x: 0, y: 0, z: 0}
   m_ClipBindingConstant:
-    genericBindings: []
+    genericBindings:
+    - serializedVersion: 2
+      path: 2364102910
+      attribute: 2
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 1772571678
+      attribute: 2
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 1389722143
+      attribute: 1
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 1771825650
+      attribute: 1
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 641733683
+      attribute: 1
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 1096432096
+      attribute: 1
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 243385377
+      attribute: 1
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 1389722143
+      attribute: 2
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 1771825650
+      attribute: 2
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 641733683
+      attribute: 2
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 1096432096
+      attribute: 2
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 243385377
+      attribute: 2
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 636494930
+      attribute: 1
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 2276011314
+      attribute: 1
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 2364102910
+      attribute: 1
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 1772571678
+      attribute: 1
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 1233209876
+      attribute: 1
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 3336822083
+      attribute: 1
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 2646635979
+      attribute: 1
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 312664732
+      attribute: 1
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 636494930
+      attribute: 2
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 2276011314
+      attribute: 2
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 1233209876
+      attribute: 2
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 3336822083
+      attribute: 2
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 2646635979
+      attribute: 2
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 312664732
+      attribute: 2
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 636494930
+      attribute: 3
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 1389722143
+      attribute: 3
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 2276011314
+      attribute: 3
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 2364102910
+      attribute: 3
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 1772571678
+      attribute: 3
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 1233209876
+      attribute: 3
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 1771825650
+      attribute: 3
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 3336822083
+      attribute: 3
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 641733683
+      attribute: 3
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 2646635979
+      attribute: 3
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 1096432096
+      attribute: 3
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 312664732
+      attribute: 3
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 243385377
+      attribute: 3
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 0
+      attribute: 7
+      script: {fileID: 0}
+      typeID: 95
+      customType: 8
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 0
+      attribute: 8
+      script: {fileID: 0}
+      typeID: 95
+      customType: 8
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 0
+      attribute: 9
+      script: {fileID: 0}
+      typeID: 95
+      customType: 8
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 0
+      attribute: 10
+      script: {fileID: 0}
+      typeID: 95
+      customType: 8
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 0
+      attribute: 11
+      script: {fileID: 0}
+      typeID: 95
+      customType: 8
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 0
+      attribute: 12
+      script: {fileID: 0}
+      typeID: 95
+      customType: 8
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 0
+      attribute: 13
+      script: {fileID: 0}
+      typeID: 95
+      customType: 8
+      isPPtrCurve: 0
     pptrCurveMapping: []
   m_AnimationClipSettings:
     serializedVersion: 2
@@ -1552,9 +1874,6780 @@ AnimationClip:
     m_KeepOriginalPositionXZ: 0
     m_HeightFromFeet: 0
     m_Mirror: 0
-  m_EditorCurves: []
-  m_EulerEditorCurves: []
+  m_EditorCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.6
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: RootT.x
+    path: 
+    classID: 95
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.6
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: RootT.y
+    path: 
+    classID: 95
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.6
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: RootT.z
+    path: 
+    classID: 95
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.6
+        value: -0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: RootQ.x
+    path: 
+    classID: 95
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.3599999
+        value: -0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.6
+        value: -0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: RootQ.y
+    path: 
+    classID: 95
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.6
+        value: -0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: RootQ.z
+    path: 
+    classID: 95
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.3599999
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.6
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: RootQ.w
+    path: 
+    classID: 95
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.3599999
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.6
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.x
+    path: Golem
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.3599999
+        value: -0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.6
+        value: -0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.y
+    path: Golem
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.3599999
+        value: -0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.6
+        value: -0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.z
+    path: Golem
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.3599999
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.6
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.w
+    path: Golem
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -0.70832425
+        inSlope: -0.33976236
+        outSlope: -0.33976236
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.03999996
+        value: -0.726817
+        inSlope: -0.5925318
+        outSlope: -0.5925318
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.15999997
+        value: -0.8130332
+        inSlope: -0.6342578
+        outSlope: -0.6342578
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.23999989
+        value: -0.8494547
+        inSlope: -0.20808065
+        outSlope: -0.20808065
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.27999997
+        value: -0.85218394
+        inSlope: 1.0230573
+        outSlope: 1.0230573
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.31999993
+        value: -0.7676102
+        inSlope: 2.4186807
+        outSlope: 2.4186807
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.3599999
+        value: -0.6586897
+        inSlope: 1.5238056
+        outSlope: 1.5238056
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.39999998
+        value: -0.6457058
+        inSlope: 0.13449976
+        outSlope: 0.13449976
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.6
+        value: -0.7071068
+        inSlope: -0.2752074
+        outSlope: -0.2752074
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.x
+    path: Golem/Pelvis
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 1.3531664e-15
+        inSlope: 5.3813237e-16
+        outSlope: 5.3813237e-16
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.03999996
+        value: 1.3819236e-15
+        inSlope: 9.084623e-16
+        outSlope: 9.084623e-16
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.15999997
+        value: 1.5078765e-15
+        inSlope: 8.932551e-16
+        outSlope: 8.932551e-16
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.23999989
+        value: 1.5600819e-15
+        inSlope: 3.5846172e-16
+        outSlope: 3.5846172e-16
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.27999997
+        value: 1.5680581e-15
+        inSlope: -1.1140574e-15
+        outSlope: -1.1140574e-15
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.31999993
+        value: 1.4709574e-15
+        inSlope: -3.196123e-15
+        outSlope: -3.196123e-15
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.3599999
+        value: 1.3123685e-15
+        inSlope: -2.2895525e-15
+        outSlope: -2.2895525e-15
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.39999998
+        value: 1.2877933e-15
+        inSlope: -3.2611634e-16
+        outSlope: -3.2611634e-16
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.6
+        value: 1.3510588e-15
+        inSlope: 2.406083e-16
+        outSlope: 2.406083e-16
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.y
+    path: Golem/Pelvis
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -1.3525406e-15
+        inSlope: -1.4306563e-16
+        outSlope: -1.4306563e-16
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.03999996
+        value: -1.3595048e-15
+        inSlope: -2.0321367e-16
+        outSlope: -2.0321367e-16
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.15999997
+        value: -1.3499726e-15
+        inSlope: 5.113034e-16
+        outSlope: 5.113034e-16
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.23999989
+        value: -1.2975584e-15
+        inSlope: 5.672737e-16
+        outSlope: 5.672737e-16
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.27999997
+        value: -1.2790667e-15
+        inSlope: 6.4437364e-16
+        outSlope: 6.4437364e-16
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.31999993
+        value: -1.2460085e-15
+        inSlope: 2.476143e-15
+        outSlope: 2.476143e-15
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.3599999
+        value: -1.0809754e-15
+        inSlope: 2.0909093e-15
+        outSlope: 2.0909093e-15
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.39999998
+        value: -1.078736e-15
+        inSlope: -3.843893e-16
+        outSlope: -3.843893e-16
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.6
+        value: -1.351059e-15
+        inSlope: -1.3924017e-15
+        outSlope: -1.3924017e-15
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.z
+    path: Golem/Pelvis
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.7061876
+        inSlope: -0.34428337
+        outSlope: -0.34428337
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.03999996
+        value: 0.6868312
+        inSlope: -0.6352192
+        outSlope: -0.6352192
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.15999997
+        value: 0.5822174
+        inSlope: -0.87899584
+        outSlope: -0.87899584
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.23999989
+        value: 0.52766156
+        inSlope: -0.32738835
+        outSlope: -0.32738835
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.27999997
+        value: 0.52324235
+        inSlope: 1.4156945
+        outSlope: 1.4156945
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.31999993
+        value: 0.640917
+        inSlope: 2.864657
+        outSlope: 2.864657
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.3599999
+        value: 0.7524147
+        inSlope: 1.533367
+        outSlope: 1.533367
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.39999998
+        value: 0.7635863
+        inSlope: 0.11606782
+        outSlope: 0.11606782
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.6
+        value: 0.7071068
+        inSlope: -0.27423733
+        outSlope: -0.27423733
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.w
+    path: Golem/Pelvis
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 8.7157646e-33
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.6
+        value: 8.7157646e-33
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.x
+    path: Golem/Pelvis/Body01
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.7071068
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.6
+        value: 0.7071068
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.y
+    path: Golem/Pelvis/Body01
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.7071068
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.6
+        value: 0.7071068
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.z
+    path: Golem/Pelvis/Body01
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 8.659561e-17
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.6
+        value: 8.659561e-17
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.w
+    path: Golem/Pelvis/Body01
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.000066705514
+        inSlope: 0.01574442
+        outSlope: 0.01574442
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.6
+        value: 0.0029892477
+        inSlope: -0.0029190811
+        outSlope: -0.0029190811
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.x
+    path: Golem/Pelvis/Body01/Body02
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -0.000000053737892
+        inSlope: -0.0000069151433
+        outSlope: -0.0000069151433
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.6
+        value: -0.0000013272809
+        inSlope: 0.0000013086793
+        outSlope: 0.0000013086793
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.y
+    path: Golem/Pelvis/Body01/Body02
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -0.0000010890108
+        inSlope: -0.0002569052
+        outSlope: -0.0002569052
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.6
+        value: -0.000048776546
+        inSlope: 0.000047631907
+        outSlope: 0.000047631907
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.z
+    path: Golem/Pelvis/Body01/Body02
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 1.0000008
+        inSlope: 0.000019537078
+        outSlope: 0.000019537078
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.6
+        value: 1.0000042
+        inSlope: -0.0000044703484
+        outSlope: -0.0000044703484
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.w
+    path: Golem/Pelvis/Body01/Body02
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.7116233
+        inSlope: -0.0004952051
+        outSlope: -0.0004952051
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.6
+        value: 0.7122849
+        inSlope: 0.0020801413
+        outSlope: 0.0020801413
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.x
+    path: Golem/Pelvis/Body03
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 5.527018e-10
+        inSlope: -1.261944e-12
+        outSlope: -1.261944e-12
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.6
+        value: 5.5438826e-10
+        inSlope: 5.3026177e-12
+        outSlope: 5.3026177e-12
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.y
+    path: Golem/Pelvis/Body03
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 5.618541e-10
+        inSlope: 1.2139382e-12
+        outSlope: 1.2139382e-12
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.6
+        value: 5.602322e-10
+        inSlope: -5.09986e-12
+        outSlope: -5.09986e-12
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.z
+    path: Golem/Pelvis/Body03
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.7025676
+        inSlope: 0.0005044803
+        outSlope: 0.0005044803
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.6
+        value: 0.7018934
+        inSlope: -0.0021197966
+        outSlope: -0.0021197966
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.w
+    path: Golem/Pelvis/Body03
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.68143386
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.6
+        value: 0.68143386
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.x
+    path: Golem/Pelvis/Leg_B-L1
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.28225946
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.6
+        value: 0.28225946
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.y
+    path: Golem/Pelvis/Leg_B-L1
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.25841117
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.6
+        value: 0.25841117
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.z
+    path: Golem/Pelvis/Leg_B-L1
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.6238599
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.6
+        value: 0.6238599
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.w
+    path: Golem/Pelvis/Leg_B-L1
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -0.7294717
+        inSlope: 0.111362375
+        outSlope: 0.111362375
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.07999992
+        value: -0.71509063
+        inSlope: 0.25400543
+        outSlope: 0.25400543
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.23999989
+        value: -0.66839045
+        inSlope: 0.23801021
+        outSlope: 0.23801021
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.27999997
+        value: -0.66026086
+        inSlope: 0.13226402
+        outSlope: 0.13226402
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.31999993
+        value: -0.6578093
+        inSlope: 0.04781191
+        outSlope: 0.04781191
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.3599999
+        value: -0.6564359
+        inSlope: -0.0014259871
+        outSlope: -0.0014259871
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.39999998
+        value: -0.6579234
+        inSlope: -0.24094972
+        outSlope: -0.24094972
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.4799999
+        value: -0.7046533
+        inSlope: -0.6930172
+        outSlope: -0.6930172
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.6
+        value: -0.7308775
+        inSlope: 0.8261195
+        outSlope: 0.8261195
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.x
+    path: Golem/Pelvis/Leg_B-L1/Leg_B-L2
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -0.003672178
+        inSlope: 0.17792274
+        outSlope: 0.17792274
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.07999992
+        value: 0.019485388
+        inSlope: 0.41195756
+        outSlope: 0.41195756
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.23999989
+        value: 0.071348846
+        inSlope: 0.045054816
+        outSlope: 0.045054816
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.27999997
+        value: 0.06892505
+        inSlope: -0.49945703
+        outSlope: -0.49945703
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.31999993
+        value: 0.031392314
+        inSlope: -1.26388
+        outSlope: -1.26388
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.3599999
+        value: -0.032185253
+        inSlope: -1.285286
+        outSlope: -1.285286
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.39999998
+        value: -0.07143059
+        inSlope: -0.51979357
+        outSlope: -0.51979357
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.4799999
+        value: -0.062606245
+        inSlope: 0.39060587
+        outSlope: 0.39060587
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.6
+        value: -0.0067036846
+        inSlope: 0.22704321
+        outSlope: 0.22704321
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.y
+    path: Golem/Pelvis/Leg_B-L1/Leg_B-L2
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.005306435
+        inSlope: -0.12128436
+        outSlope: -0.12128436
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.07999992
+        value: -0.011424231
+        inSlope: -0.30823594
+        outSlope: -0.30823594
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.23999989
+        value: -0.054099206
+        inSlope: -0.045161717
+        outSlope: -0.045161717
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.27999997
+        value: -0.052118648
+        inSlope: 0.4626409
+        outSlope: 0.4626409
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.31999993
+        value: -0.017087964
+        inSlope: 1.1846333
+        outSlope: 1.1846333
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.3599999
+        value: 0.04265192
+        inSlope: 1.1870267
+        outSlope: 1.1870267
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.39999998
+        value: 0.07787419
+        inSlope: 0.4053279
+        outSlope: 0.4053279
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.4799999
+        value: 0.05893787
+        inSlope: -0.46505672
+        outSlope: -0.46505672
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.6
+        value: 0.007172393
+        inSlope: -0.19446285
+        outSlope: -0.19446285
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.z
+    path: Golem/Pelvis/Leg_B-L1/Leg_B-L2
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.6843197
+        inSlope: 0.118940815
+        outSlope: 0.118940815
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.07999992
+        value: 0.6986668
+        inSlope: 0.24193028
+        outSlope: 0.24193028
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.23999989
+        value: 0.73840153
+        inSlope: 0.2089194
+        outSlope: 0.2089194
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.27999997
+        value: 0.7460486
+        inSlope: 0.1741803
+        outSlope: 0.1741803
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.31999993
+        value: 0.75233597
+        inSlope: 0.0804805
+        outSlope: 0.0804805
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.3599999
+        value: 0.75248706
+        inSlope: -0.08377416
+        outSlope: -0.08377416
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.39999998
+        value: 0.745634
+        inSlope: -0.28592798
+        outSlope: -0.28592798
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.4799999
+        value: 0.7043227
+        inSlope: -0.62225074
+        outSlope: -0.62225074
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.6
+        value: 0.682438
+        inSlope: 0.84287345
+        outSlope: 0.84287345
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.w
+    path: Golem/Pelvis/Leg_B-L1/Leg_B-L2
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.44016325
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.6
+        value: 0.44016325
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.x
+    path: Golem/Pelvis/Leg_F-L1
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.58353716
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.6
+        value: 0.58353716
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.y
+    path: Golem/Pelvis/Leg_F-L1
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.5448346
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.6
+        value: 0.5448346
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.z
+    path: Golem/Pelvis/Leg_F-L1
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.4109695
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.6
+        value: 0.4109695
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.w
+    path: Golem/Pelvis/Leg_F-L1
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -0.72300005
+        inSlope: 0.47985438
+        outSlope: 0.47985438
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.03999996
+        value: -0.6936693
+        inSlope: 1.0222731
+        outSlope: 1.0222731
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.119999886
+        value: -0.5747154
+        inSlope: 1.7660346
+        outSlope: 1.7660346
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.19999993
+        value: -0.43204084
+        inSlope: 1.5086613
+        outSlope: 1.5086613
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.23999989
+        value: -0.38010836
+        inSlope: 0.96884894
+        outSlope: 0.96884894
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.27999997
+        value: -0.35453293
+        inSlope: -0.4446278
+        outSlope: -0.4446278
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.31999993
+        value: -0.41567847
+        inSlope: -1.9312352
+        outSlope: -1.9312352
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.3599999
+        value: -0.5090316
+        inSlope: -2.025619
+        outSlope: -2.025619
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.39999998
+        value: -0.57772803
+        inSlope: -1.9155897
+        outSlope: -1.9155897
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.43999994
+        value: -0.66227883
+        inSlope: -2.1219392
+        outSlope: -2.1219392
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.4799999
+        value: -0.747483
+        inSlope: -1.5678309
+        outSlope: -1.5678309
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.51999986
+        value: -0.7877052
+        inSlope: -0.32015324
+        outSlope: -0.32015324
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.5599998
+        value: -0.77309525
+        inSlope: 0.73219055
+        outSlope: 0.73219055
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.6
+        value: -0.72912973
+        inSlope: 1.3562763
+        outSlope: 1.3562763
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.x
+    path: Golem/Pelvis/Leg_F-L1/Leg_F-L2
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -0.10011726
+        inSlope: 0.8674561
+        outSlope: 0.8674561
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.03999996
+        value: -0.059057016
+        inSlope: 1.1422303
+        outSlope: 1.1422303
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.119999886
+        value: 0.039239753
+        inSlope: 1.1841785
+        outSlope: 1.1841785
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.19999993
+        value: 0.12657717
+        inSlope: 1.054497
+        outSlope: 1.054497
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.23999989
+        value: 0.16909398
+        inSlope: 1.1628947
+        outSlope: 1.1628947
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.27999997
+        value: 0.21960881
+        inSlope: 2.3265598
+        outSlope: 2.3265598
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.31999993
+        value: 0.35521874
+        inSlope: 3.9974537
+        outSlope: 3.9974537
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.3599999
+        value: 0.5394048
+        inSlope: 3.1314642
+        outSlope: 3.1314642
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.39999998
+        value: 0.60573584
+        inSlope: -0.20893413
+        outSlope: -0.20893413
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.43999994
+        value: 0.5226903
+        inSlope: -3.028173
+        outSlope: -3.028173
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.4799999
+        value: 0.36348224
+        inSlope: -4.3260803
+        outSlope: -4.3260803
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.51999986
+        value: 0.1766042
+        inSlope: -4.256634
+        outSlope: -4.256634
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.5599998
+        value: 0.022951845
+        inSlope: -2.848464
+        outSlope: -2.848464
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.6
+        value: -0.05127315
+        inSlope: -0.79381436
+        outSlope: -0.79381436
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.y
+    path: Golem/Pelvis/Leg_F-L1/Leg_F-L2
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -0.09588915
+        inSlope: -0.9858624
+        outSlope: -0.9858624
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.03999996
+        value: -0.14778577
+        inSlope: -1.6088091
+        outSlope: -1.6088091
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.119999886
+        value: -0.31472573
+        inSlope: -2.3501859
+        outSlope: -2.3501859
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.19999993
+        value: -0.50057167
+        inSlope: -1.982975
+        outSlope: -1.982975
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.23999989
+        value: -0.5700121
+        inSlope: -1.3579695
+        outSlope: -1.3579695
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.27999997
+        value: -0.60920924
+        inSlope: 0.18888575
+        outSlope: 0.18888575
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.31999993
+        value: -0.55490136
+        inSlope: 2.5090182
+        outSlope: 2.5090182
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.3599999
+        value: -0.40848798
+        inSlope: 3.1233227
+        outSlope: 3.1233227
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.39999998
+        value: -0.30503547
+        inSlope: 1.726431
+        outSlope: 1.726431
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.43999994
+        value: -0.2703733
+        inSlope: 0.9007304
+        outSlope: 0.9007304
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.4799999
+        value: -0.2329771
+        inSlope: 1.1725094
+        outSlope: 1.1725094
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.51999986
+        value: -0.17657265
+        inSlope: 1.5822515
+        outSlope: 1.5822515
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.5599998
+        value: -0.10639711
+        inSlope: 1.6087506
+        outSlope: 1.6087506
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.6
+        value: -0.04787238
+        inSlope: 1.0390449
+        outSlope: 1.0390449
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.z
+    path: Golem/Pelvis/Leg_F-L1/Leg_F-L2
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.6773387
+        inSlope: 0.5167049
+        outSlope: 0.5167049
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.03999996
+        value: 0.70249164
+        inSlope: 0.71813655
+        outSlope: 0.71813655
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.119999886
+        value: 0.75439394
+        inSlope: 0.29402244
+        outSlope: 0.29402244
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.19999993
+        value: 0.7394234
+        inSlope: -0.6037643
+        outSlope: -0.6037643
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.23999989
+        value: 0.7085275
+        inSlope: -0.81161433
+        outSlope: -0.81161433
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.27999997
+        value: 0.6744942
+        inSlope: -1.0192264
+        outSlope: -1.0192264
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.31999993
+        value: 0.62698936
+        inSlope: -1.7806756
+        outSlope: -1.7806756
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.3599999
+        value: 0.5320403
+        inSlope: -2.1602771
+        outSlope: -2.1602771
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.39999998
+        value: 0.45416713
+        inSlope: -0.85341084
+        outSlope: -0.85341084
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.43999994
+        value: 0.46376726
+        inSlope: 0.63351154
+        outSlope: 0.63351154
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.4799999
+        value: 0.504848
+        inSlope: 1.2424595
+        outSlope: 1.2424595
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.51999986
+        value: 0.56316394
+        inSlope: 1.5004172
+        outSlope: 1.5004172
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.5599998
+        value: 0.62488127
+        inSlope: 1.4700854
+        outSlope: 1.4700854
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.6
+        value: 0.680771
+        inSlope: 1.5107462
+        outSlope: 1.5107462
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.w
+    path: Golem/Pelvis/Leg_F-L1/Leg_F-L2
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.68143386
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.6
+        value: 0.68143386
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.x
+    path: Golem/Pelvis/Leg_B-R1
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -0.28225946
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.6
+        value: -0.28225946
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.y
+    path: Golem/Pelvis/Leg_B-R1
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -0.25841117
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.6
+        value: -0.25841117
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.z
+    path: Golem/Pelvis/Leg_B-R1
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.6238599
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.6
+        value: 0.6238599
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.w
+    path: Golem/Pelvis/Leg_B-R1
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -0.51205665
+        inSlope: -0.03014878
+        outSlope: -0.03014878
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.03999996
+        value: -0.51415175
+        inSlope: -0.07767081
+        outSlope: -0.07767081
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.23999989
+        value: -0.52472115
+        inSlope: 0.15795135
+        outSlope: 0.15795135
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.27999997
+        value: -0.5153431
+        inSlope: 0.6454009
+        outSlope: 0.6454009
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.31999993
+        value: -0.4730891
+        inSlope: 1.4072845
+        outSlope: 1.4072845
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.3599999
+        value: -0.40276048
+        inSlope: 1.3659576
+        outSlope: 1.3659576
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.39999998
+        value: -0.36381248
+        inSlope: 0.2543076
+        outSlope: 0.2543076
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.4799999
+        value: -0.42471355
+        inSlope: -1.1031106
+        outSlope: -1.1031106
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.6
+        value: -0.5121697
+        inSlope: 0.2149955
+        outSlope: 0.2149955
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.x
+    path: Golem/Pelvis/Leg_B-R1/Leg_B-R2
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.5206262
+        inSlope: -0.2131362
+        outSlope: -0.2131362
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.03999996
+        value: 0.5086093
+        inSlope: -0.3951593
+        outSlope: -0.3951593
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.23999989
+        value: 0.40633893
+        inSlope: -0.29026347
+        outSlope: -0.29026347
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.27999997
+        value: 0.3991871
+        inSlope: 0.23426983
+        outSlope: 0.23426983
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.31999993
+        value: 0.42508048
+        inSlope: 0.9544687
+        outSlope: 0.9544687
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.3599999
+        value: 0.4755445
+        inSlope: 1.052208
+        outSlope: 1.052208
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.39999998
+        value: 0.50925714
+        inSlope: 0.5832546
+        outSlope: 0.5832546
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.4799999
+        value: 0.5322168
+        inSlope: 0.18915403
+        outSlope: 0.18915403
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.6
+        value: 0.521449
+        inSlope: -0.60717756
+        outSlope: -0.60717756
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.y
+    path: Golem/Pelvis/Leg_B-R1/Leg_B-R2
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.478485
+        inSlope: 0.21833037
+        outSlope: 0.21833037
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.03999996
+        value: 0.49063608
+        inSlope: 0.39608318
+        outSlope: 0.39608318
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.23999989
+        value: 0.5751637
+        inSlope: 0.17174113
+        outSlope: 0.17174113
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.27999997
+        value: 0.57842
+        inSlope: -0.2609361
+        outSlope: -0.2609361
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.31999993
+        value: 0.55428886
+        inSlope: -0.9348029
+        outSlope: -0.9348029
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.3599999
+        value: 0.5036358
+        inSlope: -1.1010782
+        outSlope: -1.1010782
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.39999998
+        value: 0.4662026
+        inSlope: -0.61561495
+        outSlope: -0.61561495
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.4799999
+        value: 0.44810653
+        inSlope: -0.069611214
+        outSlope: -0.069611214
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.6
+        value: 0.47739005
+        inSlope: 0.7032398
+        outSlope: 0.7032398
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.z
+    path: Golem/Pelvis/Leg_B-R1/Leg_B-R2
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.4879331
+        inSlope: -0.0244055
+        outSlope: -0.0244055
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.03999996
+        value: 0.48604622
+        inSlope: -0.073380776
+        outSlope: -0.073380776
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.23999989
+        value: 0.47827095
+        inSlope: 0.21476497
+        outSlope: 0.21476497
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.27999997
+        value: 0.49040946
+        inSlope: 0.73281103
+        outSlope: 0.73281103
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.31999993
+        value: 0.5368958
+        inSlope: 1.3489404
+        outSlope: 1.3489404
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.3599999
+        value: 0.5983246
+        inSlope: 1.1045799
+        outSlope: 1.1045799
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.39999998
+        value: 0.6252622
+        inSlope: 0.17144372
+        outSlope: 0.17144372
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.4799999
+        value: 0.57927907
+        inSlope: -0.93873227
+        outSlope: -0.93873227
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.6
+        value: 0.48772106
+        inSlope: 0.14751883
+        outSlope: 0.14751883
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.w
+    path: Golem/Pelvis/Leg_B-R1/Leg_B-R2
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -0.44016325
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.6
+        value: -0.44016325
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.x
+    path: Golem/Pelvis/Leg_F-R1
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.58353716
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.6
+        value: 0.58353716
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.y
+    path: Golem/Pelvis/Leg_F-R1
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.5448346
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.6
+        value: 0.5448346
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.z
+    path: Golem/Pelvis/Leg_F-R1
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -0.4109695
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.6
+        value: -0.4109695
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.w
+    path: Golem/Pelvis/Leg_F-R1
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.10007334
+        inSlope: -0.8859322
+        outSlope: -0.8859322
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.07999992
+        value: 0.0058447635
+        inSlope: -1.3224843
+        outSlope: -1.3224843
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.15999997
+        value: -0.09932219
+        inSlope: -1.2384013
+        outSlope: -1.2384013
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.23999989
+        value: -0.19364363
+        inSlope: -1.2117764
+        outSlope: -1.2117764
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.27999997
+        value: -0.24400654
+        inSlope: -2.0788755
+        outSlope: -2.0788755
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.31999993
+        value: -0.35995367
+        inSlope: -3.3413253
+        outSlope: -3.3413253
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.3599999
+        value: -0.5113123
+        inSlope: -2.5030546
+        outSlope: -2.5030546
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.39999998
+        value: -0.560198
+        inSlope: 0.49595916
+        outSlope: 0.49595916
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.43999994
+        value: -0.47163576
+        inSlope: 3.140233
+        outSlope: 3.140233
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.4799999
+        value: -0.3089796
+        inSlope: 4.3813696
+        outSlope: 4.3813696
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.51999986
+        value: -0.121126495
+        inSlope: 4.251188
+        outSlope: 4.251188
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.5599998
+        value: 0.0311151
+        inSlope: 2.781333
+        outSlope: 2.781333
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.6
+        value: 0.10138036
+        inSlope: 0.61885476
+        outSlope: 0.61885476
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.x
+    path: Golem/Pelvis/Leg_F-R1/Leg_F-R2
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.72178656
+        inSlope: -0.46526292
+        outSlope: -0.46526292
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.07999992
+        value: 0.65233624
+        inSlope: -1.3113728
+        outSlope: -1.3113728
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.15999997
+        value: 0.52573335
+        inSlope: -1.638916
+        outSlope: -1.638916
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.23999989
+        value: 0.41004333
+        inSlope: -1.0150208
+        outSlope: -1.0150208
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.27999997
+        value: 0.3802873
+        inSlope: 0.14236766
+        outSlope: 0.14236766
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.31999993
+        value: 0.42143264
+        inSlope: 1.4755445
+        outSlope: 1.4755445
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.3599999
+        value: 0.49833074
+        inSlope: 1.8255504
+        outSlope: 1.8255504
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.39999998
+        value: 0.56747675
+        inSlope: 1.9492741
+        outSlope: 1.9492741
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.43999994
+        value: 0.65427274
+        inSlope: 2.153097
+        outSlope: 2.153097
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.4799999
+        value: 0.73972434
+        inSlope: 1.559677
+        outSlope: 1.559677
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.51999986
+        value: 0.7790468
+        inSlope: 0.3156762
+        outSlope: 0.3156762
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.5599998
+        value: 0.7649784
+        inSlope: -0.68976265
+        outSlope: -0.68976265
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.6
+        value: 0.72386557
+        inSlope: -1.2604172
+        outSlope: -1.2604172
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.y
+    path: Golem/Pelvis/Leg_F-R1/Leg_F-R2
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.6781384
+        inSlope: 0.4912282
+        outSlope: 0.4912282
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.07999992
+        value: 0.72481
+        inSlope: 0.5383653
+        outSlope: 0.5383653
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.15999997
+        value: 0.7423849
+        inSlope: -0.21147974
+        outSlope: -0.21147974
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.23999989
+        value: 0.69491154
+        inSlope: -0.7968167
+        outSlope: -0.7968167
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.27999997
+        value: 0.66123873
+        inSlope: -0.97752774
+        outSlope: -0.97752774
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.31999993
+        value: 0.6167093
+        inSlope: -1.4677405
+        outSlope: -1.4677405
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.3599999
+        value: 0.5438196
+        inSlope: -1.5836308
+        outSlope: -1.5836308
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.39999998
+        value: 0.49001878
+        inSlope: -0.5482204
+        outSlope: -0.5482204
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.43999994
+        value: 0.49996185
+        inSlope: 0.51526403
+        outSlope: 0.51526403
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.4799999
+        value: 0.53123987
+        inSlope: 0.94535446
+        outSlope: 0.94535446
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.51999986
+        value: 0.57559013
+        inSlope: 1.1790786
+        outSlope: 1.1790786
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.5599998
+        value: 0.62556607
+        inSlope: 1.2533162
+        outSlope: 1.2533162
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.6
+        value: 0.67585564
+        inSlope: 1.430831
+        outSlope: 1.430831
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.z
+    path: Golem/Pelvis/Leg_F-R1/Leg_F-R2
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -0.0967716
+        inSlope: -1.0208964
+        outSlope: -1.0208964
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.07999992
+        value: -0.22152628
+        inSlope: -2.030778
+        outSlope: -2.030778
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.15999997
+        value: -0.40324208
+        inSlope: -2.2461464
+        outSlope: -2.2461464
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.23999989
+        value: -0.55809015
+        inSlope: -1.3643148
+        outSlope: -1.3643148
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.27999997
+        value: -0.59883696
+        inSlope: -0.0115558505
+        outSlope: -0.0115558505
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.31999993
+        value: -0.55901474
+        inSlope: 1.972887
+        outSlope: 1.972887
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.3599999
+        value: -0.44100615
+        inSlope: 2.5854454
+        outSlope: 2.5854454
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.39999998
+        value: -0.35217905
+        inSlope: 1.5691262
+        outSlope: 1.5691262
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.43999994
+        value: -0.3154759
+        inSlope: 0.97614694
+        outSlope: 0.97614694
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.4799999
+        value: -0.27408737
+        inSlope: 1.2303317
+        outSlope: 1.2303317
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.51999986
+        value: -0.21704948
+        inSlope: 1.5508032
+        outSlope: 1.5508032
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.5599998
+        value: -0.15002324
+        inSlope: 1.529912
+        outSlope: 1.529912
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.6
+        value: -0.0946563
+        inSlope: 1.0126055
+        outSlope: 1.0126055
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.w
+    path: Golem/Pelvis/Leg_F-R1/Leg_F-R2
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.6
+        value: -0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.x
+    path: Golem
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.6
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.y
+    path: Golem
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.6
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.z
+    path: Golem
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -0
+        inSlope: -0
+        outSlope: -0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.03999996
+        value: -0
+        inSlope: -0
+        outSlope: -0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.120000005
+        value: -0
+        inSlope: -0
+        outSlope: -0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.24000001
+        value: -0
+        inSlope: -0
+        outSlope: -0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.27999997
+        value: -0
+        inSlope: -0
+        outSlope: -0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.31999993
+        value: -0
+        inSlope: -0
+        outSlope: -0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.36
+        value: -0
+        inSlope: -0
+        outSlope: -0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.39999998
+        value: -0
+        inSlope: -0
+        outSlope: -0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.43999994
+        value: -0
+        inSlope: -0
+        outSlope: -0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.4799999
+        value: -0
+        inSlope: -0
+        outSlope: -0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.51999986
+        value: -0
+        inSlope: -0
+        outSlope: -0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.56000006
+        value: -0
+        inSlope: -0
+        outSlope: -0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.6
+        value: -0
+        inSlope: -0
+        outSlope: -0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.x
+    path: Golem/Pelvis
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.61
+        inSlope: 0.72656286
+        outSlope: 0.726557
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.03999996
+        value: 0.6490819
+        inSlope: 1.1595573
+        outSlope: 1.1595515
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.120000005
+        value: 0.76463675
+        inSlope: 1.5689692
+        outSlope: 1.5689508
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.24000001
+        value: 0.9352349
+        inSlope: 0.98035693
+        outSlope: 0.9803683
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.27999997
+        value: 0.9657154
+        inSlope: -0.53904516
+        outSlope: -0.5390444
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.31999993
+        value: 0.8921118
+        inSlope: -2.2405462
+        outSlope: -2.2405665
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.36
+        value: 0.78647184
+        inSlope: -1.8708231
+        outSlope: -1.8707817
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.39999998
+        value: 0.7424484
+        inSlope: -1.068868
+        outSlope: -1.0689291
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.43999994
+        value: 0.70096123
+        inSlope: -0.9745152
+        outSlope: -0.9744674
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.4799999
+        value: 0.66449124
+        inSlope: -0.81802833
+        outSlope: -0.81801206
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.51999986
+        value: 0.6355202
+        inSlope: -0.5995432
+        outSlope: -0.59951794
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.56000006
+        value: 0.6165293
+        inSlope: -0.31899375
+        outSlope: -0.31900215
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.6
+        value: 0.61
+        inSlope: 0.13528329
+        outSlope: 0.13529499
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.y
+    path: Golem/Pelvis
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.0000000029802318
+        inSlope: -0.50658846
+        outSlope: -0.5065909
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.03999996
+        value: -0.02780934
+        inSlope: -0.84441566
+        outSlope: -0.844411
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.120000005
+        value: -0.11332309
+        inSlope: -1.1456999
+        outSlope: -1.1456816
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.24000001
+        value: -0.227689
+        inSlope: -0.48955306
+        outSlope: -0.48955634
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.27999997
+        value: -0.2384651
+        inSlope: 1.2625585
+        outSlope: 1.2625371
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.31999993
+        value: -0.12668459
+        inSlope: 2.980811
+        outSlope: 2.980852
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.36
+        value: 0.0000000029802318
+        inSlope: 1.8423485
+        outSlope: 1.8423104
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.39999998
+        value: 0.020700099
+        inSlope: 0.33120131
+        outSlope: 0.3312062
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.43999994
+        value: 0.02649613
+        inSlope: 0.020703182
+        outSlope: 0.020697108
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.4799999
+        value: 0.02235611
+        inSlope: -0.16560645
+        outSlope: -0.16560537
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.51999986
+        value: 0.01324807
+        inSlope: -0.22771148
+        outSlope: -0.22769827
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.56000006
+        value: 0.0041400227
+        inSlope: -0.16559921
+        outSlope: -0.16560556
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.6
+        value: 0.0000000029802318
+        inSlope: -0.05175272
+        outSlope: -0.051750284
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.z
+    path: Golem/Pelvis
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.6
+        value: -0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.x
+    path: Golem/Pelvis/Body01
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.6
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.y
+    path: Golem/Pelvis/Body01
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.6
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.z
+    path: Golem/Pelvis/Body01
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.00000002972374
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.36
+        value: 0.00000002972374
+        inSlope: -0
+        outSlope: -0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.6
+        value: 0.00000002972374
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.x
+    path: Golem/Pelvis/Body01/Body02
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.36
+        value: 0
+        inSlope: -0
+        outSlope: -0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.6
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.y
+    path: Golem/Pelvis/Body01/Body02
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -0.34
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.36
+        value: -0.34
+        inSlope: -7.9301485e-16
+        outSlope: -1.8503735e-15
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.6
+        value: -0.34000003
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.z
+    path: Golem/Pelvis/Body01/Body02
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.6
+        value: -0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.x
+    path: Golem/Pelvis/Body03
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.6
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.y
+    path: Golem/Pelvis/Body03
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.6
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.z
+    path: Golem/Pelvis/Body03
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -0.58
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.6
+        value: -0.58
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.x
+    path: Golem/Pelvis/Leg_B-L1
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.68
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.6
+        value: 0.68
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.y
+    path: Golem/Pelvis/Leg_B-L1
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.089999996
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.6
+        value: 0.089999996
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.z
+    path: Golem/Pelvis/Leg_B-L1
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.0000000040178842
+        inSlope: 1.1816842e-23
+        outSlope: 2.7572714e-23
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.24000001
+        value: 0.0000000040178842
+        inSlope: 1.1816842e-23
+        outSlope: 2.7572714e-23
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.27999997
+        value: 0.0000000040178842
+        inSlope: 1.1816878e-23
+        outSlope: 2.7572714e-23
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.31999993
+        value: 0.0000000040178842
+        inSlope: 1.1816878e-23
+        outSlope: 2.7572632e-23
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.36
+        value: 0.0000000040178842
+        inSlope: 1.1816842e-23
+        outSlope: 0.0000000019539497
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.39999998
+        value: 0.0000000040178842
+        inSlope: -0.0049526645
+        outSlope: -0.004952935
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.43999994
+        value: -0.00039620898
+        inSlope: -0.014858366
+        outSlope: -0.014858509
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.4799999
+        value: -0.001188635
+        inSlope: -0.017335137
+        outSlope: -0.01733458
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.51999986
+        value: -0.001782954
+        inSlope: -0.0049532033
+        outSlope: -0.0049526235
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.56000006
+        value: -0.0015848479
+        inSlope: 0.0222869
+        outSlope: 0.022288168
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.6
+        value: 0.0000000040178842
+        inSlope: 0.068512656
+        outSlope: 0.068515
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.x
+    path: Golem/Pelvis/Leg_B-L1/Leg_B-L2
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -6.7272254e-10
+        inSlope: -5.908421e-24
+        outSlope: -1.3786357e-23
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.24000001
+        value: -6.7272254e-10
+        inSlope: -5.908421e-24
+        outSlope: -1.3786357e-23
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.27999997
+        value: -6.7272254e-10
+        inSlope: -5.908439e-24
+        outSlope: -1.3786357e-23
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.31999993
+        value: -6.7272254e-10
+        inSlope: -5.908439e-24
+        outSlope: -1.3786316e-23
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.36
+        value: -6.7272254e-10
+        inSlope: -5.908421e-24
+        outSlope: 0.0000000070649193
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.39999998
+        value: -6.7272254e-10
+        inSlope: -0.018076016
+        outSlope: -0.018077003
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.43999994
+        value: -0.001446081
+        inSlope: -0.054229386
+        outSlope: -0.054229863
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.4799999
+        value: -0.004338243
+        inSlope: -0.063268915
+        outSlope: -0.06326714
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.51999986
+        value: -0.0065073627
+        inSlope: -0.018078122
+        outSlope: -0.018075949
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.56000006
+        value: -0.005784323
+        inSlope: 0.08134161
+        outSlope: 0.08134631
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.6
+        value: -6.7272254e-10
+        inSlope: 0.25005442
+        outSlope: 0.25006294
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.y
+    path: Golem/Pelvis/Leg_B-L1/Leg_B-L2
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -0.2271563
+        inSlope: -0.2699225
+        outSlope: -0.26992565
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.24000001
+        value: -0.3484748
+        inSlope: -0.2608477
+        outSlope: -0.2608473
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.27999997
+        value: -0.3542166
+        inSlope: 0.295881
+        outSlope: 0.29586703
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.31999993
+        value: -0.32480448
+        inSlope: 1.088244
+        outSlope: 1.0882626
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.36
+        value: -0.26715678
+        inSlope: 1.2206186
+        outSlope: 1.2205988
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.39999998
+        value: -0.2271563
+        inSlope: 0.6741044
+        outSlope: 0.6741225
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.43999994
+        value: -0.21322781
+        inSlope: 0.28408977
+        outSlope: 0.284085
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.4799999
+        value: -0.20442979
+        inSlope: 0.13290253
+        outSlope: 0.13289517
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.51999986
+        value: -0.202596
+        inSlope: -0.064129576
+        outSlope: -0.06412585
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.56000006
+        value: -0.20956029
+        inSlope: -0.30699822
+        outSlope: -0.30701926
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.6
+        value: -0.2271563
+        inSlope: -0.6825834
+        outSlope: -0.6826027
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.z
+    path: Golem/Pelvis/Leg_B-L1/Leg_B-L2
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -0.71999997
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.6
+        value: -0.71999997
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.x
+    path: Golem/Pelvis/Leg_F-L1
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -0.5
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.6
+        value: -0.5
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.y
+    path: Golem/Pelvis/Leg_F-L1
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.08999995
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.6
+        value: 0.08999995
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.z
+    path: Golem/Pelvis/Leg_F-L1
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -0.000000003713123
+        inSlope: 0.1375954
+        outSlope: 0.13759492
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.03999996
+        value: 0.01100767
+        inSlope: 0.45865163
+        outSlope: 0.45864776
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.07999992
+        value: 0.03669222
+        inSlope: 0.6879795
+        outSlope: 0.6879861
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.120000005
+        value: 0.06604601
+        inSlope: 0.6421232
+        outSlope: 0.6421133
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.19999993
+        value: 0.09173057
+        inSlope: -0.27519503
+        outSlope: -0.2751913
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.24000001
+        value: 0.06604601
+        inSlope: -1.1466208
+        outSlope: -1.1466273
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.27999997
+        value: -0.000000003713123
+        inSlope: -4.238282
+        outSlope: -4.23825
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.31999993
+        value: -0.2730174
+        inSlope: -8.573409
+        outSlope: -8.573525
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.36
+        value: -0.68587285
+        inSlope: -7.8244
+        outSlope: -7.8242693
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.39999998
+        value: -0.8989597
+        inSlope: -1.6746995
+        outSlope: -1.6746643
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.43999994
+        value: -0.8198512
+        inSlope: 3.4161446
+        outSlope: 3.4161632
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.51999986
+        value: -0.3811589
+        inSlope: 5.933409
+        outSlope: 5.9330664
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.56000006
+        value: -0.15102519
+        inSlope: 4.764442
+        outSlope: 4.764649
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.6
+        value: -0.000000003713123
+        inSlope: 2.607073
+        outSlope: 2.6070392
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.x
+    path: Golem/Pelvis/Leg_F-L1/Leg_F-L2
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -8.8535207e-10
+        inSlope: -5.908421e-24
+        outSlope: -1.3786357e-23
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.03999996
+        value: -8.8535207e-10
+        inSlope: -5.908439e-24
+        outSlope: -1.3786357e-23
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.07999992
+        value: -8.8535207e-10
+        inSlope: -5.908439e-24
+        outSlope: -1.3786316e-23
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.120000005
+        value: -8.8535207e-10
+        inSlope: -5.908421e-24
+        outSlope: -1.3786357e-23
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.19999993
+        value: -8.8535207e-10
+        inSlope: -5.908439e-24
+        outSlope: -1.3786316e-23
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.24000001
+        value: -8.8535207e-10
+        inSlope: -5.908421e-24
+        outSlope: -1.3786357e-23
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.27999997
+        value: -8.8535207e-10
+        inSlope: -5.908439e-24
+        outSlope: -1.3786357e-23
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.31999993
+        value: -8.8535207e-10
+        inSlope: -5.908439e-24
+        outSlope: -1.3786316e-23
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.36
+        value: -8.8535207e-10
+        inSlope: -5.908421e-24
+        outSlope: -1.3786357e-23
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.39999998
+        value: -8.8535207e-10
+        inSlope: -5.908439e-24
+        outSlope: -1.3786357e-23
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.43999994
+        value: -8.8535207e-10
+        inSlope: -5.908439e-24
+        outSlope: -1.3786357e-23
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.51999986
+        value: -8.8535207e-10
+        inSlope: -5.908439e-24
+        outSlope: -1.3786274e-23
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.56000006
+        value: -8.8535207e-10
+        inSlope: -5.9084033e-24
+        outSlope: -1.3786357e-23
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.6
+        value: -8.8535207e-10
+        inSlope: -5.908439e-24
+        outSlope: -1.3786357e-23
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.y
+    path: Golem/Pelvis/Leg_F-L1/Leg_F-L2
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -0.29189038
+        inSlope: -0.61456174
+        outSlope: -0.61456925
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.03999996
+        value: -0.3258494
+        inSlope: -1.039159
+        outSlope: -1.0391454
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.07999992
+        value: -0.3750231
+        inSlope: -1.3223416
+        outSlope: -1.3223544
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.120000005
+        value: -0.43163717
+        inSlope: -1.4112002
+        outSlope: -1.4111755
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.19999993
+        value: -0.5360901
+        inSlope: -1.005791
+        outSlope: -1.005783
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.24000001
+        value: -0.5683807
+        inSlope: -0.51154447
+        outSlope: -0.5115702
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.27999997
+        value: -0.5770151
+        inSlope: 0.9366991
+        outSlope: 0.9366934
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.31999993
+        value: -0.49344477
+        inSlope: 2.9937618
+        outSlope: 2.9938052
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.36
+        value: -0.3375145
+        inSlope: 3.2426045
+        outSlope: 3.242552
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.39999998
+        value: -0.2340405
+        inSlope: 1.5706664
+        outSlope: 1.5706993
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.43999994
+        value: -0.21186
+        inSlope: 0.26824465
+        outSlope: 0.26823118
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.51999986
+        value: -0.230179
+        inSlope: -0.57554793
+        outSlope: -0.5755227
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.56000006
+        value: -0.2586242
+        inSlope: -0.77138823
+        outSlope: -0.77142143
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.6
+        value: -0.29189038
+        inSlope: -1.0104852
+        outSlope: -1.0105087
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.z
+    path: Golem/Pelvis/Leg_F-L1/Leg_F-L2
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.58
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.6
+        value: 0.58
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.x
+    path: Golem/Pelvis/Leg_B-R1
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.68
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.6
+        value: 0.68
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.y
+    path: Golem/Pelvis/Leg_B-R1
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.089999996
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.6
+        value: 0.089999996
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.z
+    path: Golem/Pelvis/Leg_B-R1
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -0.0000000040178842
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.03999996
+        value: -0.0000000040178842
+        inSlope: -1.1816878e-23
+        outSlope: -2.7572714e-23
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.24000001
+        value: -0.0000000040178842
+        inSlope: -1.1816842e-23
+        outSlope: -2.7572714e-23
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.27999997
+        value: -0.0000000040178842
+        inSlope: -1.1816878e-23
+        outSlope: -2.7572714e-23
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.31999993
+        value: -0.0000000040178842
+        inSlope: -1.1816878e-23
+        outSlope: -2.7572632e-23
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.36
+        value: -0.0000000040178842
+        inSlope: -1.1816842e-23
+        outSlope: -2.7572714e-23
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.39999998
+        value: -0.0000000040178842
+        inSlope: -1.1816878e-23
+        outSlope: -2.7572714e-23
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.43999994
+        value: -0.0000000040178842
+        inSlope: -1.1816878e-23
+        outSlope: -2.7572714e-23
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.56000006
+        value: -0.0000000040178842
+        inSlope: -1.1816807e-23
+        outSlope: -2.7572714e-23
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.6
+        value: -0.0000000040178842
+        inSlope: -1.1816878e-23
+        outSlope: -2.7572714e-23
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.x
+    path: Golem/Pelvis/Leg_B-R1/Leg_B-R2
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -6.7272254e-10
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.03999996
+        value: -6.7272254e-10
+        inSlope: -5.908439e-24
+        outSlope: -1.3786357e-23
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.24000001
+        value: -6.7272254e-10
+        inSlope: -5.908421e-24
+        outSlope: -1.3786357e-23
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.27999997
+        value: -6.7272254e-10
+        inSlope: -5.908439e-24
+        outSlope: -1.3786357e-23
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.31999993
+        value: -6.7272254e-10
+        inSlope: -5.908439e-24
+        outSlope: -1.3786316e-23
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.36
+        value: -6.7272254e-10
+        inSlope: -5.908421e-24
+        outSlope: -1.3786357e-23
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.39999998
+        value: -6.7272254e-10
+        inSlope: -5.908439e-24
+        outSlope: -1.3786357e-23
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.43999994
+        value: -6.7272254e-10
+        inSlope: -5.908439e-24
+        outSlope: -1.3786357e-23
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.56000006
+        value: -6.7272254e-10
+        inSlope: -5.9084033e-24
+        outSlope: -1.3786357e-23
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.6
+        value: -6.7272254e-10
+        inSlope: -5.908439e-24
+        outSlope: -1.3786357e-23
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.y
+    path: Golem/Pelvis/Leg_B-R1/Leg_B-R2
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -0.22803912
+        inSlope: -0.21231411
+        outSlope: -0.21231411
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.03999996
+        value: -0.23987009
+        inSlope: -0.38604933
+        outSlope: -0.38604757
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.24000001
+        value: -0.33124998
+        inSlope: -0.22381192
+        outSlope: -0.22381769
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.27999997
+        value: -0.3361766
+        inSlope: 0.25386912
+        outSlope: 0.2538645
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.31999993
+        value: -0.31094038
+        inSlope: 0.93373954
+        outSlope: 0.93375134
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.36
+        value: -0.2614775
+        inSlope: 1.0473156
+        outSlope: 1.0472997
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.39999998
+        value: -0.2271563
+        inSlope: 0.59486943
+        outSlope: 0.5948809
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.43999994
+        value: -0.21388769
+        inSlope: 0.2931676
+        outSlope: 0.29316756
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.56000006
+        value: -0.20678788
+        inSlope: -0.33753002
+        outSlope: -0.33754954
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.6
+        value: -0.2271563
+        inSlope: -0.8135197
+        outSlope: -0.81354254
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.z
+    path: Golem/Pelvis/Leg_B-R1/Leg_B-R2
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.71999997
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.6
+        value: 0.71999997
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.x
+    path: Golem/Pelvis/Leg_F-R1
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -0.5
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.6
+        value: -0.5
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.y
+    path: Golem/Pelvis/Leg_F-R1
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.08999995
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.6
+        value: 0.08999995
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.z
+    path: Golem/Pelvis/Leg_F-R1
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.000000003713123
+        inSlope: -0.1089233
+        outSlope: -0.10892292
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.03999996
+        value: -0.008713896
+        inSlope: -0.36307812
+        outSlope: -0.3630753
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.07999992
+        value: -0.02904633
+        inSlope: -0.54461884
+        outSlope: -0.5446238
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.120000005
+        value: -0.05228339
+        inSlope: -0.5083179
+        outSlope: -0.5083093
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.19999993
+        value: -0.07261582
+        inSlope: 0.21784867
+        outSlope: 0.21784566
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.24000001
+        value: -0.05228339
+        inSlope: 0.90768737
+        outSlope: 0.9076942
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.27999997
+        value: 0.000000003713123
+        inSlope: 3.3551135
+        outSlope: 3.3550875
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.31999993
+        value: 0.21612619
+        inSlope: 6.786889
+        outSlope: 6.786984
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.36
+        value: 0.54295117
+        inSlope: 6.193961
+        outSlope: 6.1938634
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.39999998
+        value: 0.7116351
+        inSlope: 1.3257332
+        outSlope: 1.3257105
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.43999994
+        value: 0.6490112
+        inSlope: -2.7042937
+        outSlope: -2.7043045
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.51999986
+        value: 0.3017333
+        inSlope: -4.6970067
+        outSlope: -4.69673
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.56000006
+        value: 0.1195547
+        inSlope: -3.7716286
+        outSlope: -3.7717965
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.6
+        value: 0.000000003713123
+        inSlope: -2.0638142
+        outSlope: -2.0637867
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.x
+    path: Golem/Pelvis/Leg_F-R1/Leg_F-R2
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -8.8535207e-10
+        inSlope: -5.908421e-24
+        outSlope: -1.3786357e-23
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.03999996
+        value: -8.8535207e-10
+        inSlope: -5.908439e-24
+        outSlope: -1.3786357e-23
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.07999992
+        value: -8.8535207e-10
+        inSlope: -5.908439e-24
+        outSlope: -1.3786316e-23
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.120000005
+        value: -8.8535207e-10
+        inSlope: -5.908421e-24
+        outSlope: -1.3786357e-23
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.19999993
+        value: -8.8535207e-10
+        inSlope: -5.908439e-24
+        outSlope: -1.3786316e-23
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.24000001
+        value: -8.8535207e-10
+        inSlope: -5.908421e-24
+        outSlope: -1.3786357e-23
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.27999997
+        value: -8.8535207e-10
+        inSlope: -5.908439e-24
+        outSlope: -1.3786357e-23
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.31999993
+        value: -8.8535207e-10
+        inSlope: -5.908439e-24
+        outSlope: -1.3786316e-23
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.36
+        value: -8.8535207e-10
+        inSlope: -5.908421e-24
+        outSlope: -1.3786357e-23
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.39999998
+        value: -8.8535207e-10
+        inSlope: -5.908439e-24
+        outSlope: -1.3786357e-23
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.43999994
+        value: -8.8535207e-10
+        inSlope: -5.908439e-24
+        outSlope: -1.3786357e-23
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.51999986
+        value: -8.8535207e-10
+        inSlope: -5.908439e-24
+        outSlope: -1.3786274e-23
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.56000006
+        value: -8.8535207e-10
+        inSlope: -5.9084033e-24
+        outSlope: -1.3786357e-23
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.6
+        value: -8.8535207e-10
+        inSlope: -5.908439e-24
+        outSlope: -1.3786357e-23
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.y
+    path: Golem/Pelvis/Leg_F-R1/Leg_F-R2
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -0.29189038
+        inSlope: -0.56723267
+        outSlope: -0.5672346
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.03999996
+        value: -0.32289588
+        inSlope: -0.936677
+        outSlope: -0.936671
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.07999992
+        value: -0.36682478
+        inSlope: -1.1815748
+        outSlope: -1.1815908
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.120000005
+        value: -0.4174222
+        inSlope: -1.2701234
+        outSlope: -1.2701048
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.19999993
+        value: -0.5136021
+        inSlope: -0.97801316
+        outSlope: -0.9780242
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.24000001
+        value: -0.5466745
+        inSlope: -0.5974045
+        outSlope: -0.5974079
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.27999997
+        value: -0.561395
+        inSlope: 0.46447307
+        outSlope: 0.46446013
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.31999993
+        value: -0.5095168
+        inSlope: 1.9783105
+        outSlope: 1.978345
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.36
+        value: -0.4031303
+        inSlope: 2.2879114
+        outSlope: 2.2878702
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.39999998
+        value: -0.3264869
+        inSlope: 1.3214657
+        outSlope: 1.321498
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.43999994
+        value: -0.29741198
+        inSlope: 0.6023066
+        outSlope: 0.60229963
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.51999986
+        value: -0.27027348
+        inSlope: 0.04840408
+        outSlope: 0.048398152
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.56000006
+        value: -0.2744321
+        inSlope: -0.27020922
+        outSlope: -0.2702234
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.6
+        value: -0.29189038
+        inSlope: -0.74000835
+        outSlope: -0.740035
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.z
+    path: Golem/Pelvis/Leg_F-R1/Leg_F-R2
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.6
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalScale.x
+    path: Golem
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.6
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalScale.y
+    path: Golem
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.6
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalScale.z
+    path: Golem
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.3599999
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.6
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalScale.x
+    path: Golem/Pelvis
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.3599999
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.6
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalScale.y
+    path: Golem/Pelvis
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.3599999
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.6
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalScale.z
+    path: Golem/Pelvis
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.6
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalScale.x
+    path: Golem/Pelvis/Body01
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.6
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalScale.y
+    path: Golem/Pelvis/Body01
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.6
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalScale.z
+    path: Golem/Pelvis/Body01
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.3599999
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.6
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalScale.x
+    path: Golem/Pelvis/Body01/Body02
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.3599999
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.6
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalScale.y
+    path: Golem/Pelvis/Body01/Body02
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.3599999
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.6
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalScale.z
+    path: Golem/Pelvis/Body01/Body02
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.6
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalScale.x
+    path: Golem/Pelvis/Body03
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.6
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalScale.y
+    path: Golem/Pelvis/Body03
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.6
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalScale.z
+    path: Golem/Pelvis/Body03
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.6
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalScale.x
+    path: Golem/Pelvis/Leg_B-L1
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.6
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalScale.y
+    path: Golem/Pelvis/Leg_B-L1
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.6
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalScale.z
+    path: Golem/Pelvis/Leg_B-L1
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.6
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalScale.x
+    path: Golem/Pelvis/Leg_B-L1/Leg_B-L2
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.6
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalScale.y
+    path: Golem/Pelvis/Leg_B-L1/Leg_B-L2
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.6
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalScale.z
+    path: Golem/Pelvis/Leg_B-L1/Leg_B-L2
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.6
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalScale.x
+    path: Golem/Pelvis/Leg_F-L1
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.6
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalScale.y
+    path: Golem/Pelvis/Leg_F-L1
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.6
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalScale.z
+    path: Golem/Pelvis/Leg_F-L1
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.6
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalScale.x
+    path: Golem/Pelvis/Leg_F-L1/Leg_F-L2
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.6
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalScale.y
+    path: Golem/Pelvis/Leg_F-L1/Leg_F-L2
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.6
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalScale.z
+    path: Golem/Pelvis/Leg_F-L1/Leg_F-L2
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.6
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalScale.x
+    path: Golem/Pelvis/Leg_B-R1
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.6
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalScale.y
+    path: Golem/Pelvis/Leg_B-R1
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.6
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalScale.z
+    path: Golem/Pelvis/Leg_B-R1
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.6
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalScale.x
+    path: Golem/Pelvis/Leg_B-R1/Leg_B-R2
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.6
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalScale.y
+    path: Golem/Pelvis/Leg_B-R1/Leg_B-R2
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.6
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalScale.z
+    path: Golem/Pelvis/Leg_B-R1/Leg_B-R2
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.6
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalScale.x
+    path: Golem/Pelvis/Leg_F-R1
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.6
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalScale.y
+    path: Golem/Pelvis/Leg_F-R1
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.6
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalScale.z
+    path: Golem/Pelvis/Leg_F-R1
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.6
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalScale.x
+    path: Golem/Pelvis/Leg_F-R1/Leg_F-R2
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.6
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalScale.y
+    path: Golem/Pelvis/Leg_F-R1/Leg_F-R2
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.6
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalScale.z
+    path: Golem/Pelvis/Leg_F-R1/Leg_F-R2
+    classID: 4
+    script: {fileID: 0}
+  m_EulerEditorCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.3599999
+        value: -0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.6
+        value: -0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.x
+    path: Golem
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.3599999
+        value: -0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.6
+        value: -0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.y
+    path: Golem
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.3599999
+        value: -0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.6
+        value: -0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.z
+    path: Golem
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -89.82641
+        inSlope: 55.359703
+        outSlope: 55.359703
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.03999996
+        value: -86.759605
+        inSlope: 99.54767
+        outSlope: 99.52468
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.15999997
+        value: -71.213326
+        inSlope: 124.11269
+        outSlope: 124.162796
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.23999989
+        value: -63.695187
+        inSlope: 44.444176
+        outSlope: 44.446186
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.27999997
+        value: -63.099987
+        inSlope: -199.90184
+        outSlope: -199.90244
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.31999993
+        value: -79.72046
+        inSlope: -429.37244
+        outSlope: -429.37244
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.3599999
+        value: -82.40001
+        inSlope: 246.5609
+        outSlope: 246.56245
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.39999998
+        value: -80.43722
+        inSlope: 20.356709
+        outSlope: 20.353083
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.6
+        value: -90
+        inSlope: 44.50835
+        outSlope: 44.50835
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.x
+    path: Golem/Pelvis
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 180
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.03999996
+        value: 180
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.15999997
+        value: 180
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.23999989
+        value: 180
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.27999997
+        value: 180
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.31999993
+        value: 180
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.3599999
+        value: 1.4724891e-12
+        inSlope: -1.10436785e-10
+        outSlope: -1.1043646e-10
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.39999998
+        value: 1.1587504e-12
+        inSlope: -8.69061e-11
+        outSlope: -1.7381251e-11
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.6
+        value: 2.1894844e-13
+        inSlope: -2699.9993
+        outSlope: -2699.9993
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.y
+    path: Golem/Pelvis
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -180
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.03999996
+        value: -180
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.15999997
+        value: -180
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.23999989
+        value: -180
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.27999997
+        value: -180
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.31999993
+        value: -180
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.3599999
+        value: -1.4536984e-12
+        inSlope: 1.0902749e-10
+        outSlope: 1.0902716e-10
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.39999998
+        value: -1.1417517e-12
+        inSlope: 8.563121e-11
+        outSlope: 1.7126273e-11
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.6
+        value: 0
+        inSlope: -2699.9993
+        outSlope: -2699.9993
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.z
+    path: Golem/Pelvis
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -90
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.6
+        value: -90
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.x
+    path: Golem/Pelvis/Body01
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 180
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.6
+        value: 180
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.y
+    path: Golem/Pelvis/Body01
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.6
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.z
+    path: Golem/Pelvis/Body01
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.0076438817
+        inSlope: 1.8042032
+        outSlope: 1.8042032
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.6
+        value: 0.34254012
+        inSlope: -0.33445045
+        outSlope: -0.33445045
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.x
+    path: Golem/Pelvis/Body01/Body02
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -0.0000061662276
+        inSlope: -0.00088469614
+        outSlope: -0.00088469614
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.6
+        value: -0.00016880396
+        inSlope: 0.0001573743
+        outSlope: 0.0001573743
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.y
+    path: Golem/Pelvis/Body01/Body02
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -0.00012479175
+        inSlope: -0.029435854
+        outSlope: -0.029435854
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.6
+        value: -0.005589862
+        inSlope: 0.0055188895
+        outSlope: 0.0055188895
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.z
+    path: Golem/Pelvis/Body01/Body02
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 89.26671
+        inSlope: 0.078201294
+        outSlope: 0.078201294
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.6
+        value: 89.15836
+        inSlope: -0.3396988
+        outSlope: -0.3396988
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.x
+    path: Golem/Pelvis/Body03
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 179.99998
+        inSlope: 0.000076293945
+        outSlope: 0.000076293945
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.6
+        value: 179.99998
+        inSlope: 0.000076293945
+        outSlope: 0.000076293945
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.y
+    path: Golem/Pelvis/Body03
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 179.99998
+        inSlope: 0.000076293945
+        outSlope: 0.000076293945
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.6
+        value: 179.99998
+        inSlope: 0.000076293945
+        outSlope: 0.000076293945
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.z
+    path: Golem/Pelvis/Body03
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 44.777897
+        inSlope: -0.000019073486
+        outSlope: -0.000019073486
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.6
+        value: 44.777897
+        inSlope: -0.000019073486
+        outSlope: -0.000019073486
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.x
+    path: Golem/Pelvis/Leg_B-L1
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 97.12501
+        inSlope: -0.000038146973
+        outSlope: -0.000038146973
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.6
+        value: 97.12501
+        inSlope: -0.000038146973
+        outSlope: -0.000038146973
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.y
+    path: Golem/Pelvis/Leg_B-L1
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 95.0316
+        inSlope: 0.000076293945
+        outSlope: 0.000076293945
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.6
+        value: 95.0316
+        inSlope: 0.000076293945
+        outSlope: 0.000076293945
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.z
+    path: Golem/Pelvis/Leg_B-L1
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -86.26996
+        inSlope: -21.315786
+        outSlope: -21.315786
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.07999992
+        value: -87.16371
+        inSlope: 46.2399
+        outSlope: 53.22362
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.23999989
+        value: -78.33917
+        inSlope: 25.753504
+        outSlope: 24.584148
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.27999997
+        value: -77.95632
+        inSlope: -46.84744
+        outSlope: -46.84758
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.31999993
+        value: -81.383896
+        inSlope: -52.94385
+        outSlope: -52.94385
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.3599999
+        value: -80.121414
+        inSlope: 132.89235
+        outSlope: 132.89195
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.39999998
+        value: -75.93365
+        inSlope: 45.657257
+        outSlope: 47.964523
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.4799999
+        value: -80.139244
+        inSlope: -50.91939
+        outSlope: -39.67815
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.6
+        value: -85.91629
+        inSlope: -64.49197
+        outSlope: -64.49197
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.x
+    path: Golem/Pelvis/Leg_B-L1/Leg_B-L2
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -168.68704
+        inSlope: -364.4054
+        outSlope: -364.4054
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.07999992
+        value: 118.310616
+        inSlope: -908.23175
+        outSlope: -674.80176
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.23999989
+        value: 61.537125
+        inSlope: -123.85199
+        outSlope: -134.36023
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.27999997
+        value: 55.358204
+        inSlope: -330.26923
+        outSlope: -330.26794
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.31999993
+        value: 27.733295
+        inSlope: -1338.9237
+        outSlope: -1338.9237
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.3599999
+        value: -37.497902
+        inSlope: -807.5022
+        outSlope: -807.5021
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.39999998
+        value: -59.304424
+        inSlope: -297.585
+        outSlope: -285.3497
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.4799999
+        value: -90.30502
+        inSlope: -736.9865
+        outSlope: -779.83624
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.6
+        value: -163.996
+        inSlope: 4332.981
+        outSlope: 4332.981
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.y
+    path: Golem/Pelvis/Leg_B-L1/Leg_B-L2
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 168.81949
+        inSlope: 368.99564
+        outSlope: 368.99564
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.07999992
+        value: -117.65727
+        inSlope: 916.6463
+        outSlope: 683.2187
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.23999989
+        value: -60.132107
+        inSlope: 123.87252
+        outSlope: 134.38054
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.27999997
+        value: -53.98882
+        inSlope: 327.23083
+        outSlope: 327.2284
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.31999993
+        value: -26.570936
+        inSlope: 1332.4596
+        outSlope: 1332.4596
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.3599999
+        value: 38.349167
+        inSlope: 799.55597
+        outSlope: 799.55585
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.39999998
+        value: 59.830494
+        inSlope: 288.2529
+        outSlope: 276.0133
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.4799999
+        value: 90.006676
+        inSlope: 730.95575
+        outSlope: 773.8085
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.6
+        value: 164.034
+        inSlope: -4330.3413
+        outSlope: -4330.3413
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.z
+    path: Golem/Pelvis/Leg_B-L1/Leg_B-L2
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -15.906903
+        inSlope: -0.000014305114
+        outSlope: -0.000014305114
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.6
+        value: -15.906903
+        inSlope: -0.000014305114
+        outSlope: -0.000014305114
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.x
+    path: Golem/Pelvis/Leg_F-L1
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 94.085594
+        inSlope: 0.000038146973
+        outSlope: 0.000038146973
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.6
+        value: 94.085594
+        inSlope: 0.000038146973
+        outSlope: 0.000038146973
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.y
+    path: Golem/Pelvis/Leg_F-L1
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 88.8785
+        inSlope: 0.000038146973
+        outSlope: 0.000038146973
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.6
+        value: 88.8785
+        inSlope: 0.000038146973
+        outSlope: 0.000038146973
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.z
+    path: Golem/Pelvis/Leg_F-L1
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -86.285
+        inSlope: -45.95265
+        outSlope: -45.95265
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.03999996
+        value: -82.7702
+        inSlope: 245.43251
+        outSlope: 249.95866
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.119999886
+        value: -57.396988
+        inSlope: 343.85638
+        outSlope: 343.85587
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.19999993
+        value: -30.810503
+        inSlope: 287.95673
+        outSlope: 288.8699
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.23999989
+        value: -20.234491
+        inSlope: 231.74722
+        outSlope: 231.74768
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.27999997
+        value: -12.1625185
+        inSlope: 166.04865
+        outSlope: 166.04799
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.31999993
+        value: -7.297957
+        inSlope: 87.53355
+        outSlope: 87.53355
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.3599999
+        value: -5.795023
+        inSlope: -46.289536
+        outSlope: -46.2894
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.39999998
+        value: -8.9300375
+        inSlope: -167.30205
+        outSlope: -167.3014
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.43999994
+        value: -19.368555
+        inSlope: -331.06915
+        outSlope: -331.06915
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.4799999
+        value: -35.82875
+        inSlope: -446.732
+        outSlope: -446.732
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.51999986
+        value: -55.573013
+        inSlope: -466.9068
+        outSlope: -466.9068
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.5599998
+        value: -74.00826
+        inSlope: -362.35233
+        outSlope: -362.3536
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.6
+        value: -86.071144
+        inSlope: -114.79511
+        outSlope: -114.79511
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.x
+    path: Golem/Pelvis/Leg_F-L1/Leg_F-L2
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 177.32237
+        inSlope: -2825.4219
+        outSlope: -2825.4219
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.03999996
+        value: 75.89459
+        inSlope: -669.19275
+        outSlope: -513.3355
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.119999886
+        value: 51.37697
+        inSlope: -89.12038
+        outSlope: -89.12082
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.19999993
+        value: 46.183395
+        inSlope: -35.4698
+        outSlope: -31.913025
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.23999989
+        value: 45.824673
+        inSlope: 19.823761
+        outSlope: 19.822557
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.27999997
+        value: 48.15396
+        inSlope: 248.55716
+        outSlope: 248.5579
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.31999993
+        value: 66.08719
+        inSlope: 590.41156
+        outSlope: 590.41156
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.3599999
+        value: 95.77693
+        inSlope: 589.2557
+        outSlope: 589.2562
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.39999998
+        value: 113.97236
+        inSlope: 252.1649
+        outSlope: 252.16565
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.43999994
+        value: 116.68278
+        inSlope: 48.35305
+        outSlope: 48.35305
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.4799999
+        value: 118.08541
+        inSlope: 83.219795
+        outSlope: 83.219795
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.51999986
+        value: 122.44854
+        inSlope: 243.28389
+        outSlope: 243.28389
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.5599998
+        value: 135.47229
+        inSlope: 749.81305
+        outSlope: 749.8131
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.6
+        value: -179.99983
+        inSlope: 4958.755
+        outSlope: 4958.755
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.y
+    path: Golem/Pelvis/Leg_F-L1/Leg_F-L2
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 166.74168
+        inSlope: 2816.3398
+        outSlope: 2816.3398
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.03999996
+        value: -92.748856
+        inSlope: 628.01117
+        outSlope: 472.0635
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.119999886
+        value: -74.79686
+        inSlope: -35.402905
+        outSlope: -35.403423
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.19999993
+        value: -81.59516
+        inSlope: -112.30768
+        outSlope: -113.083755
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.23999989
+        value: -86.25972
+        inSlope: -100.15879
+        outSlope: -100.158485
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.27999997
+        value: -89.62834
+        inSlope: -20.860249
+        outSlope: -20.86031
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.31999993
+        value: -87.77022
+        inSlope: 110.355484
+        outSlope: 110.355484
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.3599999
+        value: -81.44206
+        inSlope: 83.41263
+        outSlope: 83.41353
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.39999998
+        value: -81.47949
+        inSlope: -130.70386
+        outSlope: -130.70424
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.43999994
+        value: -91.4231
+        inSlope: -307.58774
+        outSlope: -307.58774
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.4799999
+        value: -106.18679
+        inSlope: -387.11737
+        outSlope: -387.11737
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.51999986
+        value: -122.44586
+        inSlope: -466.09543
+        outSlope: -466.09543
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.5599998
+        value: -142.30415
+        inSlope: -846.7205
+        outSlope: -846.7235
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.6
+        value: 171.95488
+        inSlope: -4938.068
+        outSlope: -4938.068
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.z
+    path: Golem/Pelvis/Leg_F-L1/Leg_F-L2
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 44.777897
+        inSlope: -0.000019073486
+        outSlope: -0.000019073486
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.6
+        value: 44.777897
+        inSlope: -0.000019073486
+        outSlope: -0.000019073486
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.x
+    path: Golem/Pelvis/Leg_B-R1
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -97.12501
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.6
+        value: -97.12501
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.y
+    path: Golem/Pelvis/Leg_B-R1
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -95.0316
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.6
+        value: -95.0316
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.z
+    path: Golem/Pelvis/Leg_B-R1
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -86.06532
+        inSlope: -27.29533
+        outSlope: -27.29533
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.03999996
+        value: -87.29672
+        inSlope: -14.215864
+        outSlope: 22.195366
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.23999989
+        value: -75.77554
+        inSlope: 31.395275
+        outSlope: 28.980959
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.27999997
+        value: -75.29686
+        inSlope: -49.923603
+        outSlope: -49.922607
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.31999993
+        value: -78.303116
+        inSlope: 3.6941564
+        outSlope: 3.6941564
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.3599999
+        value: -73.938545
+        inSlope: 188.43173
+        outSlope: 188.43117
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.39999998
+        value: -68.40215
+        inSlope: 52.56833
+        outSlope: 54.7978
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.4799999
+        value: -75.70446
+        inSlope: -124.582794
+        outSlope: -115.7603
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.6
+        value: -85.91629
+        inSlope: -75.76439
+        outSlope: -75.76439
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.x
+    path: Golem/Pelvis/Leg_B-R1/Leg_B-R2
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 164.76363
+        inSlope: 340.61884
+        outSlope: 340.61884
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.03999996
+        value: -167.62581
+        inSlope: 1406.4001
+        outSlope: 1123.8633
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.23999989
+        value: -61.004036
+        inSlope: 133.01999
+        outSlope: 148.49136
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.27999997
+        value: -53.73279
+        inSlope: 427.56213
+        outSlope: 427.56226
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.31999993
+        value: -19.600239
+        inSlope: 1333.4146
+        outSlope: 1333.4146
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.3599999
+        value: 36.192055
+        inSlope: 630.7686
+        outSlope: 630.76904
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.39999998
+        value: 53.954247
+        inSlope: 234.82599
+        outSlope: 227.41292
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.4799999
+        value: 72.8704
+        inSlope: 513.25397
+        outSlope: 593.5653
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.6
+        value: 163.99608
+        inSlope: 2529.902
+        outSlope: 2529.902
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.y
+    path: Golem/Pelvis/Leg_B-R1/Leg_B-R2
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -74.81396
+        inSlope: -340.64975
+        outSlope: -340.64975
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.03999996
+        value: -102.428764
+        inSlope: -1406.5969
+        outSlope: -1124.0566
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.23999989
+        value: 149.7632
+        inSlope: -143.20248
+        outSlope: -158.65714
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.27999997
+        value: 142.10674
+        inSlope: -434.09756
+        outSlope: -434.09656
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.31999993
+        value: 107.836845
+        inSlope: -1328.9528
+        outSlope: -1328.9528
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.3599999
+        value: 52.540436
+        inSlope: -618.6476
+        outSlope: -618.6469
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.39999998
+        value: 35.251606
+        inSlope: -231.92578
+        outSlope: -224.5094
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.4799999
+        value: 15.762795
+        inSlope: -515.6378
+        outSlope: -595.94495
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.6
+        value: -74.05637
+        inSlope: -2520.531
+        outSlope: -2520.531
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.z
+    path: Golem/Pelvis/Leg_B-R1/Leg_B-R2
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -15.906903
+        inSlope: -0.000014305114
+        outSlope: -0.000014305114
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.6
+        value: -15.906903
+        inSlope: -0.000014305114
+        outSlope: -0.000014305114
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.x
+    path: Golem/Pelvis/Leg_F-R1
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -94.085594
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.6
+        value: -94.085594
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.y
+    path: Golem/Pelvis/Leg_F-R1
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -88.8785
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.6
+        value: -88.8785
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.z
+    path: Golem/Pelvis/Leg_F-R1
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -86.45309
+        inSlope: 21.486876
+        outSlope: 21.486876
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.07999992
+        value: -71.48291
+        inSlope: 310.7915
+        outSlope: 310.79276
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.15999997
+        value: -44.466427
+        inSlope: 328.85425
+        outSlope: 328.85416
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.23999989
+        value: -20.716637
+        inSlope: 242.5609
+        outSlope: 242.76703
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.27999997
+        value: -12.162268
+        inSlope: 177.46704
+        outSlope: 177.46642
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.31999993
+        value: -6.7399983
+        inSlope: 92.43691
+        outSlope: 92.43691
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.3599999
+        value: -5.2223077
+        inSlope: -50.343575
+        outSlope: -50.343422
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.39999998
+        value: -9.297948
+        inSlope: -193.80724
+        outSlope: -193.80667
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.43999994
+        value: -20.894197
+        inSlope: -355.12296
+        outSlope: -355.12296
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.4799999
+        value: -38.065884
+        inSlope: -451.6166
+        outSlope: -451.6166
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.51999986
+        value: -57.590855
+        inSlope: -450.98206
+        outSlope: -450.98206
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.5599998
+        value: -75.110916
+        inSlope: -333.3072
+        outSlope: -333.3052
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.6
+        value: -86.071106
+        inSlope: -106.68587
+        outSlope: -106.68587
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.x
+    path: Golem/Pelvis/Leg_F-R1/Leg_F-R2
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -176.32191
+        inSlope: 2759.3186
+        outSlope: 2759.3186
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.07999992
+        value: -62.051376
+        inSlope: 153.86253
+        outSlope: 153.8623
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.15999997
+        value: -53.202072
+        inSlope: 57.966583
+        outSlope: 57.966667
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.23999989
+        value: -50.99181
+        inSlope: -10.186253
+        outSlope: -12.749551
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.27999997
+        value: -52.751713
+        inSlope: -197.91458
+        outSlope: -197.91403
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.31999993
+        value: -67.14877
+        inSlope: -476.97073
+        outSlope: -476.97073
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.3599999
+        value: -91.12473
+        inSlope: -480.12247
+        outSlope: -480.12216
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.39999998
+        value: -105.9811
+        inSlope: -211.96475
+        outSlope: -211.96423
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.43999994
+        value: -108.79691
+        inSlope: -62.74916
+        outSlope: -62.74916
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.4799999
+        value: -111.24785
+        inSlope: -114.66876
+        outSlope: -114.66876
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.51999986
+        value: -116.98194
+        inSlope: -291.48816
+        outSlope: -291.48816
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.5599998
+        value: -132.11653
+        inSlope: -855.6653
+        outSlope: -855.66815
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.6
+        value: 179.9999
+        inSlope: -4438.8286
+        outSlope: -4438.8286
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.y
+    path: Golem/Pelvis/Leg_F-R1/Leg_F-R2
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 12.329812
+        inSlope: -2748.7869
+        outSlope: -2748.7869
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.07999992
+        value: -99.19835
+        inSlope: -85.31007
+        outSlope: -85.30994
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.15999997
+        value: -99.84306
+        inSlope: 70.10761
+        outSlope: 70.10772
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.23999989
+        value: -92.50004
+        inSlope: 83.13854
+        outSlope: 84.28099
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.27999997
+        value: -89.62205
+        inSlope: 19.031487
+        outSlope: 19.031544
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.31999993
+        value: -91.14208
+        inSlope: -95.30763
+        outSlope: -95.30763
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.3599999
+        value: -96.5942
+        inSlope: -70.21186
+        outSlope: -70.21165
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.39999998
+        value: -96.27591
+        inSlope: 130.3571
+        outSlope: 130.35748
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.43999994
+        value: -86.61294
+        inSlope: 302.4104
+        outSlope: 302.4104
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.4799999
+        value: -71.89727
+        inSlope: 397.47656
+        outSlope: 397.47656
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.51999986
+        value: -54.91724
+        inSlope: 506.27823
+        outSlope: 506.27823
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.5599998
+        value: -33.03985
+        inSlope: 950.46875
+        outSlope: 950.4723
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.6
+        value: 15.945395
+        inSlope: 4405.332
+        outSlope: 4405.332
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.z
+    path: Golem/Pelvis/Leg_F-R1/Leg_F-R2
+    classID: 4
+    script: {fileID: 0}
   m_HasGenericRootTransform: 0
   m_HasMotionFloatCurves: 0
   m_GenerateMotionCurves: 0
-  m_Events: []
+  m_Events:
+  - time: 0.28
+    functionName: Jab
+    data: 
+    objectReferenceParameter: {fileID: 0}
+    floatParameter: 0
+    intParameter: 0
+    messageOptions: 0
