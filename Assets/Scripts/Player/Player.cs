@@ -5,7 +5,6 @@ using UnityEngine;
 public class Player : MonoBehaviour
 {
     [SerializeField] [Range(1.0f, 100.0f)] float m_speed = 50.0f;
-    [SerializeField] [Range(1.0f, 900.0f)] float m_turnSpeed = 90.0f;
     [SerializeField] [Range(1.0f, 100.0f)] float m_jumpForce = 25.0f;
     [SerializeField] [Range(1.0f, 100.0f)] float m_throwForce = 15.0f;
     [SerializeField] [Range(-90.0f, 0.0f)] float m_throwAngle = -35.0f;
@@ -54,14 +53,17 @@ public class Player : MonoBehaviour
 
     private void FixedUpdate()
     {
-        Vector3 turnAngle = Vector3.up * Input.GetAxis("Horizontal") *  m_turnSpeed;
-        Quaternion rotation = Quaternion.Euler(turnAngle * Time.deltaTime);
-        transform.rotation *= rotation;
-
         Vector3 velocity = Vector3.zero;
         velocity.z = Input.GetAxis("Vertical");
+        velocity.x = Input.GetAxis("Horizontal");
         velocity = velocity * m_speed * 100.0f * Time.deltaTime;
-        m_rigidbody.AddRelativeForce(velocity, ForceMode.Force);
+        m_rigidbody.AddForce(velocity, ForceMode.Force);
+
+        if (velocity.magnitude > 0.0f)
+        {
+            Quaternion rotation = Quaternion.LookRotation(velocity, Vector3.up);
+            transform.rotation = Quaternion.Lerp(transform.rotation, rotation, Time.deltaTime * 3.0f);
+        }
         
         if (m_rigidbody.velocity.y > 0.1f)
         {
@@ -101,6 +103,16 @@ public class Player : MonoBehaviour
             force = arcRotation * force;
 
             m_die.Throw(force);
+        }
+    }
+
+    public void Slam()
+    {
+        if (m_die != null)
+        {
+            Vector3 force = (m_throwForce * 0.75f) * Vector3.up;
+
+            m_die.Shake(force);
         }
     }
 }

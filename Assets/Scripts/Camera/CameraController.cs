@@ -4,59 +4,65 @@ using UnityEngine;
 
 public class CameraController : MonoBehaviour
 {
-    [SerializeField] [Range(0.0f, 25.0f)] float m_spaceFromTarget = 10.0f;
-    [SerializeField] [Range(0.0f, 30.0f)] float m_verticalOffset = 3.0f;
-    [SerializeField] [Range(1.0f, 20.0f)] float m_lockIntensity = 10.0f;
-    [SerializeField] [Range(1.0f, 20.0f)] float m_attentiveness = 10.0f;
-    [SerializeField] [Range(1.0f, 900.0f)] float m_turnAngle = 45.0f;
-    [SerializeField] GameObject m_target = null;
+    [SerializeField] Player m_player = null;
+    [SerializeField] [Range(1.0f, 20.0f)] float m_attentiveness = 4.0f;
+    [SerializeField] [Range(0.0f, 50.0f)] float m_distanceFromPlayer = 15.0f;
+    [SerializeField] [Range(0.0f, 10.0f)] float m_shakeAmplitude = 8.0f;
+    [SerializeField] [Range(0.0f, 50.0f)] float m_shakeRate = 20.0f;
 
-    Vector3 m_newPosition = Vector3.zero;
-    float m_turnTime = 0.0f;
+    Vector3 m_actualPosition;
+    Vector3 m_startingDirection;
+    Vector3 m_startingPosition;
+    Vector3 m_shake = Vector3.zero;
+    float m_shakeAmount = 0.0f;
 
     private void Start()
     {
-        m_newPosition = transform.position;
+        m_actualPosition = transform.position;
+        m_startingPosition = transform.position;
+        Vector3 pos = m_actualPosition;
+        pos.y = 0.0f;
+        m_startingDirection = pos - m_player.transform.position;
     }
 
     private void Update()
     {
-        float turnDir = Input.GetButtonDown("RotateCamera") ? 1.0f : 0.0f;
-        if (Input.GetAxis("RotateCamera") < 0.0f)
-        {
-            turnDir *= -1.0f;
-        }
+        m_shakeAmount -= Time.deltaTime;
+        m_shakeAmount = Mathf.Clamp01(m_shakeAmount);
 
-        m_turnTime += Time.deltaTime;
-        if (m_turnTime > 0.0f)
-        {
-            m_newPosition = transform.position;
-        }
-        
-        if (turnDir != 0.0f && m_turnTime > 0.0f)
-        {
-            Vector3 direction = transform.position - m_target.transform.position;
-            float angle = m_turnAngle * turnDir;
-            Quaternion rot = Quaternion.AngleAxis(angle, Vector3.up);
-            Vector3 pos = rot * direction;
-            Vector3 newPosition = m_target.transform.position + pos;
-            m_newPosition = newPosition;
+        float time = Time.time * m_shakeRate;
 
-            m_turnTime = -0.5f;
-        }
+        m_shake.x = m_shakeAmount * m_shakeAmplitude * ((Mathf.PerlinNoise(time, 0.0f) * 2.0f) - 1.0f);
+        m_shake.y = m_shakeAmount * m_shakeAmplitude * ((Mathf.PerlinNoise(0.0f, time) * 2.0f) - 1.0f);
+        m_shake.z = 0.0f;
     }
 
-    void LateUpdate()
+    private void FixedUpdate()
     {
-        Vector3 dir = m_newPosition - m_target.transform.position;
-        dir.y = 0.0f;
-        Vector3 offset = dir.normalized * m_spaceFromTarget;
-        Vector3 targetPosition = m_target.transform.position + offset;
-        targetPosition.y = m_target.transform.position.y + m_verticalOffset;
-        transform.position = Vector3.Lerp(transform.position, targetPosition, Time.deltaTime * m_attentiveness);
+        Vector3 position = m_startingDirection.normalized * m_distanceFromPlayer;
+        position = m_player.transform.position + position + (Vector3.up * m_startingPosition.y);
 
-        Vector3 lookDir = m_target.transform.position + Vector3.up * 2.0f - transform.position;
-        Quaternion rotation = Quaternion.LookRotation(lookDir.normalized, Vector3.up);
-        transform.rotation = Quaternion.Lerp(transform.rotation, rotation, Time.deltaTime * m_lockIntensity);
+        m_actualPosition = position;
+    }
+
+    private void LateUpdate()
+    {
+        Vector3 position = m_actualPosition + m_shake;
+
+        transform.position = Vector3.Lerp(transform.position, position, Time.deltaTime * m_attentiveness);
+    }
+
+    public void ShakeCamera(float amount, float amplitude = 0.0f, float rate = 0.0f)
+    {
+        if (amplitude > 0.0f)
+        {
+            m_shakeAmplitude = Mathf.Clamp(amplitude, 0.0f, 10.0f);
+        }
+        if (rate > 0.0f)
+        {
+            m_shakeRate = Mathf.Clamp(rate, 0.0f, 50.0f);
+        }
+
+        m_shakeAmount += amount;
     }
 }

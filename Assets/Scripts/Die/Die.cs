@@ -97,8 +97,19 @@ public class Die : MonoBehaviour
 
         m_rigidbody.AddForce(force, ForceMode.Impulse);
 
-        m_xRotation = 4.0f;
-        m_zRotation = 4.0f;
+        m_xRotation = 3.0f;
+        m_zRotation = 3.0f;
+
+        m_xRotationSpeed = Random.Range(-180.0f, 180.0f);
+        m_zRotationSpeed = Random.Range(-90.0f, 90.0f);
+    }
+
+    public void Shake(Vector3 upwardForce)
+    {
+        m_rigidbody.AddForce(upwardForce, ForceMode.Impulse);
+
+        m_xRotation = 2.0f;
+        m_zRotation = 2.0f;
 
         m_xRotationSpeed = Random.Range(-180.0f, 180.0f);
         m_zRotationSpeed = Random.Range(-90.0f, 90.0f);

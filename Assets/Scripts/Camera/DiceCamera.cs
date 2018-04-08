@@ -16,7 +16,7 @@ public class DiceCamera : MonoBehaviour
         m_startingPosition = transform.position + (m_die.transform.position - m_player.transform.position) + m_offset;
     }
 
-    private void LateUpdate()
+    private void FixedUpdate()
     {
         Vector3 newPosition = m_die.transform.position - m_player.transform.position;
         newPosition += m_startingPosition + m_offset;
