@@ -41,15 +41,10 @@ public class CameraController : MonoBehaviour
     {
         Vector3 position = m_startingDirection.normalized * m_distanceFromPlayer;
         position = m_player.transform.position + position + (Vector3.up * m_startingPosition.y);
-
         m_actualPosition = position;
-    }
 
-    private void LateUpdate()
-    {
-        Vector3 position = m_actualPosition + m_shake;
-
-        transform.position = Vector3.Lerp(transform.position, position, Time.deltaTime * m_attentiveness);
+        Vector3 newPosition = m_actualPosition + m_shake;
+        transform.position = Vector3.Lerp(transform.position, newPosition, Time.deltaTime * m_attentiveness);
     }
 
     public void ShakeCamera(float amount, float amplitude = 0.0f, float rate = 0.0f)
