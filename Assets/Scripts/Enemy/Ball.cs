@@ -9,10 +9,12 @@ public class Ball : MonoBehaviour
     [SerializeField] [Range(1.0f, 10.0f)] float m_fallMultiplier = 3.0f;
 
     Rigidbody m_rigidbody;
+    AudioManager m_audioManager;
 
     private void Start()
     {
         m_rigidbody = GetComponent<Rigidbody>();
+        m_audioManager = AudioManager.Instance;
     }
 
     private void Update()
@@ -34,5 +36,30 @@ public class Ball : MonoBehaviour
         {
             m_rigidbody.velocity += (Vector3.up * Physics.gravity.y) * (m_fallMultiplier - 1.0f) * Time.deltaTime;
         }
+    }
+
+    private void OnTriggerEnter(Collider other)
+    {
+        if (other.CompareTag("Death"))
+        {
+            StartCoroutine(StartDeactivationTimer(0.5f));
+        }
+    }
+
+    private void OnCollisionEnter(Collision collision)
+    {
+        m_audioManager.PlayClip("Bounce", transform.position, false, m_audioManager.transform);
+        if (collision.gameObject.CompareTag("Player"))
+        {
+            if (!collision.gameObject.GetComponent<Player>().m_hasWon)
+                Game.Instance.EndGame();
+        }
+    }
+
+    IEnumerator StartDeactivationTimer(float time)
+    {
+        yield return new WaitForSeconds(time);
+
+        gameObject.SetActive(false);
     }
 }

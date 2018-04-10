@@ -9,14 +9,16 @@ public class Laser : MonoBehaviour
     [SerializeField] Transform m_destination = null;
     [SerializeField] Transform m_start = null;
 
+    AudioManager m_audioManager;
     Material m_material;
     Color m_color;
     float m_opacity;
     bool m_paused = true;
+    bool m_hasPlayed = false;
 
     private void Start()
     {
-
+        m_audioManager = AudioManager.Instance;
     }
 
     private void OnEnable()
@@ -27,6 +29,12 @@ public class Laser : MonoBehaviour
         if (m_color.a > 0.05f) m_opacity = m_color.a;
         m_color.a = 0.0f;
         SetColor();
+
+        if (!m_hasPlayed)
+        {
+            m_audioManager.PlayClip("Laser", transform.position, true, transform);
+            m_hasPlayed = true;
+        }
     }
 
     private void Update()
@@ -39,6 +47,27 @@ public class Laser : MonoBehaviour
 
             transform.position += velocity;
         }
+    }
+
+    private void OnTriggerEnter(Collider other)
+    {
+        if (other.CompareTag("Death"))
+        {
+            StartCoroutine(StartDeactivationTimer(0.5f));
+        }
+        else if (other.CompareTag("Player"))
+        {
+            if (!other.gameObject.GetComponent<Player>().m_hasWon)
+                Game.Instance.EndGame();
+        }
+    }
+
+    IEnumerator StartDeactivationTimer(float time)
+    {
+        yield return new WaitForSeconds(time);
+
+        m_paused = true;
+        gameObject.SetActive(false);
     }
 
     public void Spawn()

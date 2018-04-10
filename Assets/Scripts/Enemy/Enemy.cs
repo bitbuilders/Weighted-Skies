@@ -4,6 +4,26 @@ using UnityEngine;
 
 public class Enemy : MonoBehaviour
 {
+    public struct DifficultyValue
+    {
+        public DifficultyValue(float s, float lMin, float lMax, float fR, float lF, float lA)
+        {
+            speed = s;
+            laserMin = lMin;
+            laserMax = lMax;
+            fireRate = fR;
+            launchForce = lF;
+            launchAngle = lA;
+        }
+
+        public float speed;
+        public float laserMin;
+        public float laserMax;
+        public float fireRate;
+        public float launchForce;
+        public float launchAngle;
+    }
+
     [SerializeField] [Range(1.0f, 50.0f)] float m_speed = 5.0f;
     [SerializeField] [Range(0.0f, 10.0f)] float m_laserMinSpawnRate = 2.0f;
     [SerializeField] [Range(0.0f, 10.0f)] float m_laserMaxSpawnRate = 4.0f;
@@ -14,14 +34,24 @@ public class Enemy : MonoBehaviour
     [SerializeField] Transform m_minPos = null;
     [SerializeField] Transform m_maxPos = null;
 
+    DifficultyValue[] m_difficultyLevels = new DifficultyValue[]
+    {
+        new DifficultyValue(70.0f, 1.25f, 2.25f, 0.4f, 110.0f, 35.0f),
+        new DifficultyValue(60.0f, 1.40f, 2.6f, 0.52f, 115.0f, 37.0f),
+        new DifficultyValue(50.0f, 1.55f, 2.95f, 0.64f, 120.0f, 39.0f),
+        new DifficultyValue(40.0f, 1.7f, 3.3f, 0.76f, 125.0f, 41.0f),
+        new DifficultyValue(30.0f, 1.85f, 3.65f, 0.88f, 130.0f, 43.0f),
+        new DifficultyValue(20.0f, 2.0f, 4.0f, 1.0f, 135.0f, 45.0f)
+    };
+
     BallPool m_ballPool;
     LaserPool m_laserPool;
     Animator m_animator;
     Vector3 m_targetPosition;
     Vector3 m_pickPosition;
-    float m_laserSpawnRate = 4.0f;
+    float m_laserSpawnRate = 2.5f;
     float m_laserSpawnTime = 0.0f;
-    float m_shotTime = 0.0f;
+    float m_shotTime = -0.25f;
     float m_direction = 1.0f;
 
     private void Start()
@@ -31,6 +61,8 @@ public class Enemy : MonoBehaviour
         m_laserPool = LaserPool.Instance;
         m_targetPosition = transform.position;
         m_pickPosition = m_targetPosition;
+        
+        UpdateDifficulty();
     }
 
     private void Update()
@@ -41,7 +73,6 @@ public class Enemy : MonoBehaviour
         if (m_shotTime >= m_fireRate)
         {
             m_shotTime = 0.0f;
-
             m_animator.SetTrigger("Shoot");
             PickNewPosition();
         }
@@ -67,6 +98,21 @@ public class Enemy : MonoBehaviour
         }
 
         m_animator.SetFloat("FireRate", (1.0f - m_fireRate) + 1.0f);
+    }
+
+    private void UpdateDifficulty()
+    {
+        SetDifficulty(m_difficultyLevels[DifficultyManager.Instance.Difficulty - 1]);
+    }
+
+    private void SetDifficulty(DifficultyValue value)
+    {
+        m_speed = value.speed;
+        m_laserMinSpawnRate = value.laserMin;
+        m_laserMaxSpawnRate = value.laserMax;
+        m_fireRate = value.fireRate;
+        m_launchForce = value.launchForce;
+        m_launchAngle = value.launchAngle;
     }
 
     private void IncrementPickPosition()
@@ -99,6 +145,7 @@ public class Enemy : MonoBehaviour
 
     public void Shoot()
     {
+        m_shotTime = 0.0f;
         GameObject ball = m_ballPool.Get();
         ball.SetActive(true);
         ball.transform.position = m_shotLocation.position;

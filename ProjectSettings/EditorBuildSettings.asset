@@ -6,5 +6,17 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 0
-    path: Assets/Dice/scenes/Demo/demo.unity
+    path: 
     guid: 9bffaf85fa8153c4ba4e72b19277f390
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 72f02d931bf93b7478c181d402e10ff3
+  - enabled: 1
+    path: Assets/Scenes/MainWorld.unity
+    guid: 8af85730dad0d3545869425ebb41fa28
+  - enabled: 1
+    path: Assets/Scenes/Level1.unity
+    guid: dab81ee9454ebfb44aeb82b4e34b654b
+  - enabled: 1
+    path: Assets/Scenes/EndScreen.unity
+    guid: 41bf3c000c593194fac6d1c8ae724aeb

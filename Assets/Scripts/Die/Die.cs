@@ -32,14 +32,15 @@ public class Die : MonoBehaviour
     {
         m_rigidbody = GetComponent<Rigidbody>();
 
+        m_stationary = false;
         m_rigidbody.useGravity = false;
     }
 
     private void Update()
     {
         m_updateTime += Time.deltaTime;
-
-        if (m_updateTime >= UPDATE_TIMER)
+        
+        if (m_updateTime >= UPDATE_TIMER && m_rigidbody.useGravity)
         {
             m_updateTime = 0.0f;
 
@@ -97,19 +98,20 @@ public class Die : MonoBehaviour
 
         m_rigidbody.AddForce(force, ForceMode.Impulse);
 
-        m_xRotation = 3.0f;
-        m_zRotation = 3.0f;
+        m_xRotation = 1.5f;
+        m_zRotation = 1.5f;
 
-        m_xRotationSpeed = Random.Range(-180.0f, 180.0f);
-        m_zRotationSpeed = Random.Range(-90.0f, 90.0f);
+        m_xRotationSpeed = Random.Range(90.0f, 360.0f);
+        int x = Random.Range(0, 2) == 1 ? -1 : 1;
+        m_zRotationSpeed = Random.Range(45.0f, 180.0f) * x;
     }
 
     public void Shake(Vector3 upwardForce)
     {
         m_rigidbody.AddForce(upwardForce, ForceMode.Impulse);
 
-        m_xRotation = 2.0f;
-        m_zRotation = 2.0f;
+        m_xRotation = 1.5f;
+        m_zRotation = 1.5f;
 
         m_xRotationSpeed = Random.Range(-180.0f, 180.0f);
         m_zRotationSpeed = Random.Range(-90.0f, 90.0f);
