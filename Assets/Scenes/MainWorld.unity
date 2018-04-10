@@ -688,6 +688,11 @@ Prefab:
       propertyPath: m_die
       value: 
       objectReference: {fileID: 1168437166}
+    - target: {fileID: 114176500227234922, guid: 59c9d29d58ad3f74ba89eb029dfe8c0e,
+        type: 2}
+      propertyPath: m_canJump
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 59c9d29d58ad3f74ba89eb029dfe8c0e, type: 2}
   m_IsPrefabParent: 0

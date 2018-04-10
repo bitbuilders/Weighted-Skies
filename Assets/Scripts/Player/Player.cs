@@ -15,6 +15,7 @@ public class Player : MonoBehaviour
     [SerializeField] [Range(1, 100)] public int m_slams = 1;
     [SerializeField] [Range(1, 10)] public int m_numOfJumps = 1;
     [SerializeField] bool m_canMove = true;
+    [SerializeField] bool m_canJump = true;
     [SerializeField] Transform m_groundTouchPoint = null;
     [SerializeField] LayerMask m_groundMask = 0;
     [SerializeField] Die m_die = null;
@@ -45,7 +46,7 @@ public class Player : MonoBehaviour
     {
         if (!m_game.Paused)
         {
-            if (Input.GetButtonDown("Jump") && m_jumps > 0)
+            if (Input.GetButtonDown("Jump") && m_jumps > 0 && m_canJump)
             {
                 Vector3 force = Vector3.up * m_jumpForce;
                 m_rigidbody.AddForce(force, ForceMode.Impulse);

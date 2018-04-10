@@ -16,11 +16,6 @@ public class Laser : MonoBehaviour
     bool m_paused = true;
     bool m_hasPlayed = false;
 
-    private void Start()
-    {
-        m_audioManager = AudioManager.Instance;
-    }
-
     private void OnEnable()
     {
         m_material = new Material(GetComponent<Renderer>().material);
@@ -32,6 +27,7 @@ public class Laser : MonoBehaviour
 
         if (!m_hasPlayed)
         {
+            m_audioManager = AudioManager.Instance;
             m_audioManager.PlayClip("Laser", transform.position, true, transform);
             m_hasPlayed = true;
         }

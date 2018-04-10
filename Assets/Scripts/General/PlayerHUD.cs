@@ -28,7 +28,7 @@ public class PlayerHUD : MonoBehaviour
 
     IEnumerator Fade()
     {
-        for (float i = 1.0f; i >= 0.0f; i -= Time.deltaTime)
+        for (float i = 1.0f; i >= 0.0f; i -= Time.deltaTime * 2.0f)
         {
             Color c = m_tint.color;
             c.a = i;
